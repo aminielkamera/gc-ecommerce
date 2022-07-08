@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="{{ asset('assets/vendor/font-awesome/css/fontawesome-all.min.css')}}">
     <link rel="stylesheet" href="{{ asset('assets/css/font-electro.css')}}">
 
-    <link rel="stylesheet" href="{{ asset('assets/vendor/animate.css')}}/animate.min.css')}}">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/animate.css/animate.min.css')}}">
     <link rel="stylesheet" href="{{ asset('assets/vendor/hs-megamenu/src/hs.megamenu.css')}}">
     <link rel="stylesheet" href="{{ asset('assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css')}}">
     <link rel="stylesheet" href="{{ asset('assets/vendor/fancybox/jquery.fancybox.css')}}">

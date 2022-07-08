@@ -20961,7 +20961,7 @@ button:focus {
 
 .u-header__nav-link-toggle::after {
   display: inline-block;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 5 Pro";
   font-size: 65%;
   font-weight: 900;
   content: "\f107";
@@ -20996,7 +20996,7 @@ button:focus {
 
 .u-header__sub-menu-nav-link-toggle::after {
   display: inline-block;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 5 Pro";
   font-size: 80%;
   font-weight: 900;
   content: "\f105";
@@ -24217,7 +24217,7 @@ button:focus {
 
 .u-header-collapse__nav-pointer::after {
   display: inline-block;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 5 Pro";
   font-size: 65%;
   font-weight: 900;
   content: "\f107";
@@ -28395,7 +28395,7 @@ label.btn {
 /* Toggle */
 .dropdown-toggle::after {
   display: inline-block;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 5 Pro";
   font-size: 80%;
   font-weight: 900;
   content: "";
@@ -28757,7 +28757,7 @@ label.btn {
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   content: "";
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 5 Pro";
 }
 
 .bookmark-checkbox-input:checked ~ .bookmark-checkbox-label {
@@ -32179,7 +32179,7 @@ label.btn {
 
 .u-datatable .u-datatable__trigger-icon::before {
   display: inline-block;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 5 Pro";
   font-weight: 900;
   content: "\f107";
   margin-right: .75rem;
@@ -37439,3 +37439,4 @@ blockquote:not(.blockquote) p {
 /*------------------------------------
   File for your custom SCSS style
 ------------------------------------*/
+
