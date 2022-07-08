@@ -6,44 +6,12 @@
                     <div class="container">
                         <div class="d-flex align-items-center">
                             <div class="topbar-left">
-                                <a href="javascript:;" class="text-gray-110 font-size-13 hover-on-dark">Welcome to Worldwide Electronics Store</a>
+                                <a href="javascript:;" class="text-gray-110 font-size-13 hover-on-dark">Welcome to G-Computer Accessories Store</a>
                             </div>
                             <div class="topbar-right ml-auto">
                                 <ul class="list-inline mb-0">
                                     <li class="list-inline-item mr-0 u-header-topbar__nav-item u-header-topbar__nav-item-border">
-                                        <a href="../home/contact-v2.html" class="u-header-topbar__nav-link"><i class="ec ec-map-pointer mr-1"></i> Store Locator</a>
-                                    </li>
-                                    <li class="list-inline-item mr-0 u-header-topbar__nav-item u-header-topbar__nav-item-border">
-                                        <a href="../shop/track-your-order.html" class="u-header-topbar__nav-link"><i class="ec ec-transport mr-1"></i> Track Your Order</a>
-                                    </li>
-                                    <li class="list-inline-item mr-0 u-header-topbar__nav-item u-header-topbar__nav-item-border u-header-topbar__nav-item-no-border u-header-topbar__nav-item-border-single">
-                                        <div class="d-flex align-items-center">
-                                            <!-- Language -->
-                                            <div class="position-relative">
-                                                <a id="languageDropdownInvoker" class="dropdown-nav-link dropdown-toggle d-flex align-items-center u-header-topbar__nav-link font-weight-normal" href="javascript:;" role="button"
-                                                    aria-controls="languageDropdown"
-                                                    aria-haspopup="true"
-                                                    aria-expanded="false"
-                                                    data-unfold-event="hover"
-                                                    data-unfold-target="#languageDropdown"
-                                                    data-unfold-type="css-animation"
-                                                    data-unfold-duration="300"
-                                                    data-unfold-delay="300"
-                                                    data-unfold-hide-on-scroll="true"
-                                                    data-unfold-animation-in="slideInUp"
-                                                    data-unfold-animation-out="fadeOut">
-                                                    <span class="d-inline-block d-sm-none">US</span>
-                                                    <span class="d-none d-sm-inline-flex align-items-center"><i class="ec ec-dollar mr-1"></i> Dollar (US)</span>
-                                                </a>
-
-                                                <div id="languageDropdown" class="dropdown-menu dropdown-unfold" aria-labelledby="languageDropdownInvoker">
-                                                    <a class="dropdown-item active" href="javascript:;">English</a>
-                                                    <a class="dropdown-item" href="javascript:;">Deutsch</a>
-                                                    <a class="dropdown-item" href="javascript:;">Español‎</a>
-                                                </div>
-                                            </div>
-                                            <!-- End Language -->
-                                        </div>
+                                        <a href="../home/contact-v2.html" class="u-header-topbar__nav-link"><i class="ec ec-map-pointer mr-1"></i> Dar es Salaam, Kariakoo, Agrey & Likoma Street </a>
                                     </li>
                                     <li class="list-inline-item mr-0 u-header-topbar__nav-item u-header-topbar__nav-item-border">
                                         <!-- Account Sidebar Toggle Button -->
@@ -213,18 +181,6 @@
 
                                                         <!-- List -->
                                                         <ul id="headerSidebarList" class="u-header-collapse__nav">
-                                                            <!-- Value of the Day -->
-                                                            <li class="">
-                                                                <a class="u-header-collapse__nav-link font-weight-bold" href="javascript:;">Value of the Day</a>
-                                                            </li>
-                                                            <!-- End Value of the Day -->
-
-                                                            <!-- Top 100 Offers -->
-                                                            <li class="">
-                                                                <a class="u-header-collapse__nav-link font-weight-bold" href="javascript:;">Top 100 Offers</a>
-                                                            </li>
-                                                            <!-- End Top 100 Offers -->
-
                                                             <!-- New Arrivals -->
                                                             <li class="">
                                                                 <a class="u-header-collapse__nav-link font-weight-bold" href="javascript:;">New Arrivals</a>
@@ -352,7 +308,7 @@
                                                             <!-- Watches & Eyewear -->
                                                             <li class="u-has-submenu u-header-collapse__submenu">
                                                                 <a class="u-header-collapse__nav-link u-header-collapse__nav-pointer" href="javascript:;" data-target="#headerSidebarWatchesCollapse" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="headerSidebarWatchesCollapse">
-                                                                    Watches & Eyewear
+                                                                    Watches
                                                                 </a>
 
                                                                 <div id="headerSidebarWatchesCollapse" class="collapse" data-parent="#headerSidebarContent">
@@ -371,7 +327,7 @@
                                                             <!-- End Watches & Eyewear -->
 
                                                             <!-- Car, Motorbike & Industrial -->
-                                                            <li class="u-has-submenu u-header-collapse__submenu">
+                                                            <!-- <li class="u-has-submenu u-header-collapse__submenu">
                                                                 <a class="u-header-collapse__nav-link u-header-collapse__nav-pointer" href="javascript:;" data-target="#headerSidebarCarCollapse" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="headerSidebarCarCollapse">
                                                                     Car, Motorbike & Industrial
                                                                 </a>
@@ -390,11 +346,11 @@
                                                                         <li><a class="u-header-collapse__submenu-nav-link" href="javascript:;">Lab & Scientific</a></li>
                                                                     </ul>
                                                                 </div>
-                                                            </li>
+                                                            </li> -->
                                                             <!-- End Car, Motorbike & Industrial -->
 
                                                             <!-- Accessories -->
-                                                            <li class="u-has-submenu u-header-collapse__submenu">
+                                                            <!-- <li class="u-has-submenu u-header-collapse__submenu">
                                                                 <a class="u-header-collapse__nav-link u-header-collapse__nav-pointer" href="javascript:;" data-target="#headerSidebarAccessoriesCollapse" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="headerSidebarAccessoriesCollapse">
                                                                     Accessories
                                                                 </a>
@@ -410,7 +366,7 @@
                                                                         <li><a class="u-header-collapse__submenu-nav-link" href="javascript:;">Lab & Scientific</a></li>
                                                                     </ul>
                                                                 </div>
-                                                            </li>
+                                                            </li> -->
                                                             <!-- End Accessories -->
                                                         </ul>
                                                         <!-- End List -->
@@ -507,14 +463,12 @@
                                             <!-- End Input -->
                                         </li>
                                         <!-- End Search -->
-                                        <li class="col d-none d-xl-block"><a href="../shop/compare.html" class="text-gray-90" data-toggle="tooltip" data-placement="top" title="Compare"><i class="font-size-22 ec ec-compare"></i></a></li>
-                                        <li class="col d-none d-xl-block"><a href="../shop/wishlist.html" class="text-gray-90" data-toggle="tooltip" data-placement="top" title="Favorites"><i class="font-size-22 ec ec-favorites"></i></a></li>
                                         <li class="col d-xl-none px-2 px-sm-3"><a href="../shop/my-account.html" class="text-gray-90" data-toggle="tooltip" data-placement="top" title="My Account"><i class="font-size-22 ec ec-user"></i></a></li>
                                         <li class="col pr-xl-0 px-2 px-sm-3 d-xl-none">
-                                            <a href="../shop/cart.html" class="text-gray-90 position-relative d-flex " data-toggle="tooltip" data-placement="top" title="Cart">
-                                                <i class="font-size-22 ec ec-shopping-bag"></i>
-                                                <span class="bg-lg-down-black width-22 height-22 bg-primary position-absolute d-flex align-items-center justify-content-center rounded-circle left-12 top-8 font-weight-bold font-size-12">2</span>
-                                                <span class="d-none d-xl-block font-weight-bold font-size-16 text-gray-90 ml-3">$1785.00</span>
+                                            <a href="../shop/cart.html" class="position-relative d-flex " data-toggle="tooltip" data-placement="top" title="Cart">
+                                                <i class="font-size-22 ec ec-shopping-bag text-gray-90"></i>
+                                                <span class="bg-lg-down-black width-22 height-22 bg-primary position-absolute d-flex align-items-center justify-content-center rounded-circle left-12 top-8 font-weight-bold font-size-12 text-white-90">2</span>
+                                                <span class="d-none d-xl-block font-weight-bold font-size-16 text-gray-90 ml-3">Tsh 1785.00</span>
                                             </a>
                                         </li>
                                         <li class="col pr-xl-0 px-2 px-sm-3 d-none d-xl-block">
@@ -531,8 +485,8 @@
                                                 data-unfold-animation-in="slideInUp"
                                                 data-unfold-animation-out="fadeOut">
                                                 <i class="font-size-22 ec ec-shopping-bag"></i>
-                                                <span class="bg-lg-down-black width-22 height-22 bg-primary position-absolute d-flex align-items-center justify-content-center rounded-circle left-12 top-8 font-weight-bold font-size-12">2</span>
-                                                <span class="d-none d-xl-block font-weight-bold font-size-16 text-gray-90 ml-3">$1785.00</span>
+                                                <span class="bg-lg-down-black width-22 height-22 bg-primary position-absolute d-flex align-items-center justify-content-center rounded-circle left-12 top-8 font-weight-bold font-size-12 text-white-90">2</span>
+                                                <span class="d-none d-xl-block font-weight-bold font-size-16 text-gray-90 ml-3">Tsh 1785.00</span>
                                             </div>
                                             <div id="basicDropdownHover" class="cart-dropdown dropdown-menu dropdown-unfold border-top border-top-primary mt-3 border-width-2 border-left-0 border-right-0 border-bottom-0 left-auto right-0" aria-labelledby="basicDropdownHoverInvoker">
                                                 <ul class="list-unstyled px-3 pt-3">
@@ -600,10 +554,10 @@
                                                 data-target="#basicsCollapseOne"
                                                 aria-expanded="true"
                                                 aria-controls="basicsCollapseOne">
-                                                <span class="ml-0 text-gray-90 mr-2">
+                                                <span class="ml-0 text-white-90 mr-2">
                                                     <span class="fa fa-list-ul"></span>
                                                 </span>
-                                                <span class="pl-1 text-gray-90">All Departments</span>
+                                                <span class="pl-1 text-white-90">All Departments</span>
                                             </button>
                                         </div>
                                         <div id="basicsCollapseOne" class="collapse show vertical-menu"
@@ -613,16 +567,6 @@
                                                 <nav class="js-mega-menu navbar navbar-expand-xl u-header__navbar u-header__navbar--no-space hs-menu-initialized">
                                                     <div id="navBar" class="collapse navbar-collapse u-header__navbar-collapse">
                                                         <ul class="navbar-nav u-header__navbar-nav">
-                                                            <li class="nav-item u-header__nav-item"
-                                                                data-event="hover"
-                                                                data-position="left">
-                                                                <a href="javascript:;" class="nav-link u-header__nav-link font-weight-bold">Value of the Day</a>
-                                                            </li>
-                                                            <li class="nav-item u-header__nav-item"
-                                                                data-event="hover"
-                                                                data-position="left">
-                                                                <a href="javascript:;" class="nav-link u-header__nav-link font-weight-bold">Top 100 Offers</a>
-                                                            </li>
                                                             <li class="nav-item u-header__nav-item"
                                                                 data-event="hover"
                                                                 data-position="left">
@@ -838,7 +782,7 @@
                                                             <li class="nav-item hs-has-mega-menu u-header__nav-item"
                                                                 data-event="hover"
                                                                 data-position="left">
-                                                                <a id="basicMegaMenu5" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Watches & Eyewear</a>
+                                                                <a id="basicMegaMenu5" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Watches</a>
 
                                                                 <!-- Nav Item - Mega Menu -->
                                                                 <div class="hs-mega-menu vmm-tfw u-header__sub-menu" aria-labelledby="basicMegaMenu5">
@@ -857,24 +801,23 @@
                                                                             </ul>
                                                                         </div>
 
-                                                                        <div class="col mb-3 mb-sm-0">
+                                                                        <!-- <div class="col mb-3 mb-sm-0">
                                                                             <span class="u-header__sub-menu-title">Eyewear</span>
                                                                             <ul class="u-header__sub-menu-nav-group">
                                                                                 <li><a class="nav-link u-header__sub-menu-nav-link" href="javascript:;">Men's Sunglasses</a></li>
                                                                             </ul>
-                                                                        </div>
+                                                                        </div> -->
                                                                     </div>
                                                                 </div>
                                                                 <!-- End Nav Item - Mega Menu -->
                                                             </li>
                                                             <!-- End Nav Item MegaMenu-->
                                                             <!-- Nav Item MegaMenu -->
-                                                            <li class="nav-item hs-has-mega-menu u-header__nav-item"
+                                                            <!-- <li class="nav-item hs-has-mega-menu u-header__nav-item"
                                                                 data-event="hover"
                                                                 data-position="left">
                                                                 <a id="basicMegaMenu3" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Car, Motorbike & Industrial</a>
 
-                                                                <!-- Nav Item - Mega Menu -->
                                                                 <div class="hs-mega-menu vmm-tfw u-header__sub-menu" aria-labelledby="basicMegaMenu3">
                                                                     <div class="vmm-bg">
                                                                         <img class="img-fluid" src="../../assets/img/500X400/img7.png" alt="Image Description">
@@ -903,46 +846,34 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <!-- End Nav Item - Mega Menu -->
-                                                            </li>
+                                                            </li> -->
                                                             <!-- End Nav Item MegaMenu-->
                                                             <!-- Nav Item -->
-                                                            <li class="nav-item hs-has-sub-menu u-header__nav-item"
+                                                            <!-- <li class="nav-item hs-has-sub-menu u-header__nav-item"
                                                                 data-event="click"
                                                                 data-animation-in="slideInUp"
                                                                 data-animation-out="fadeOut"
                                                                 data-position="left">
                                                                 <a id="homeMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="homeSubMenu">Accessories</a>
 
-                                                                <!-- Home - Submenu -->
+
                                                                 <ul id="homeSubMenu" class="hs-sub-menu u-header__sub-menu animated hs-position-left fadeOut" aria-labelledby="homeMegaMenu" style="min-width: 230px; display: none;">
-                                                                    <!-- Home-v1 -->
+
                                                                     <li class="hs-has-sub-menu">
                                                                         <a class="nav-link u-header__sub-menu-nav-link " href="index.html">Home-v1</a>
                                                                     </li>
-                                                                    <!-- End Home-v1 -->
 
-                                                                    <!-- Home-v2 -->
                                                                     <li class="hs-has-sub-menu">
                                                                         <a class="nav-link u-header__sub-menu-nav-link " href="home-v2.html">Home-v2</a>
                                                                     </li>
-                                                                    <!-- End Home-v2 -->
-
-                                                                    <!-- Home-v3 -->
                                                                     <li class="hs-has-sub-menu">
                                                                         <a class="nav-link u-header__sub-menu-nav-link " href="home-v3.html">Home-v3</a>
                                                                     </li>
-                                                                    <!-- End Home-v3 -->
-
-                                                                    <!-- Home-v4 -->
                                                                     <li class="hs-has-sub-menu">
                                                                         <a class="nav-link u-header__sub-menu-nav-link " href="home-v4.html">Home-v4</a>
                                                                     </li>
-                                                                    <!-- End Home-v4 -->
                                                                 </ul>
-                                                                <!-- End Home - Submenu -->
-                                                            </li>
-                                                            <!-- End Nav Item -->
+                                                            </li> -->
                                                         </ul>
                                                     </div>
                                                 </nav>
@@ -963,118 +894,30 @@
                                 <div id="navBar" class="collapse navbar-collapse u-header__navbar-collapse">
                                     <ul class="navbar-nav u-header__navbar-nav">
                                         <!-- Home -->
-                                        <li class="nav-item hs-has-mega-menu u-header__nav-item"
-                                            data-event="click"
-                                            data-animation-in="slideInUp"
-                                            data-animation-out="fadeOut"
-                                            data-position="left">
-                                            <a id="homeMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle text-sale" href="javascript:;" aria-haspopup="true" aria-expanded="false">Super Deals</a>
-
-                                            <!-- Home - Mega Menu -->
-                                            <div class="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="homeMegaMenu">
-                                                <div class="row u-header__mega-menu-wrapper">
-                                                    <div class="col-md-3">
-                                                        <span class="u-header__sub-menu-title">Home & Static Pages</span>
-                                                        <ul class="u-header__sub-menu-nav-group">
-                                                            <li><a href="index.html" class="nav-link u-header__sub-menu-nav-link">Home v1</a></li>
-                                                            <li><a href="home-v2.html" class="nav-link u-header__sub-menu-nav-link">Home v2</a></li>
-                                                            <li><a href="home-v3.html" class="nav-link u-header__sub-menu-nav-link">Home v3</a></li>
-                                                            <li><a href="home-v3-full-color-bg.html" class="nav-link u-header__sub-menu-nav-link">Home v3.1</a></li>
-                                                            <li><a href="home-v4.html" class="nav-link u-header__sub-menu-nav-link">Home v4</a></li>
-                                                            <li><a href="home-v5.html" class="nav-link u-header__sub-menu-nav-link">Home v5</a></li>
-                                                            <li><a href="home-v6.html" class="nav-link u-header__sub-menu-nav-link">Home v6</a></li>
-                                                            <li><a href="home-v7.html" class="nav-link u-header__sub-menu-nav-link">Home v7</a></li>
-                                                            <li><a href="about.html" class="nav-link u-header__sub-menu-nav-link">About</a></li>
-                                                            <li><a href="contact-v1.html" class="nav-link u-header__sub-menu-nav-link">Contact v1</a></li>
-                                                            <li><a href="contact-v2.html" class="nav-link u-header__sub-menu-nav-link">Contact v2</a></li>
-                                                            <li><a href="faq.html" class="nav-link u-header__sub-menu-nav-link">FAQ</a></li>
-                                                            <li><a href="store-directory.html" class="nav-link u-header__sub-menu-nav-link">Store Directory</a></li>
-                                                            <li><a href="terms-and-conditions.html" class="nav-link u-header__sub-menu-nav-link">Terms and Conditions</a></li>
-                                                            <li><a href="404.html" class="nav-link u-header__sub-menu-nav-link">404</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-md-3">
-                                                        <span class="u-header__sub-menu-title">Shop Pages</span>
-                                                        <ul class="u-header__sub-menu-nav-group mb-3">
-                                                            <li><a href="../shop/shop-grid.html" class="nav-link u-header__sub-menu-nav-link">Shop Grid</a></li>
-                                                            <li><a href="../shop/shop-grid-extended.html" class="nav-link u-header__sub-menu-nav-link">Shop Grid Extended</a></li>
-                                                            <li><a href="../shop/shop-list-view.html" class="nav-link u-header__sub-menu-nav-link">Shop List View</a></li>
-                                                            <li><a href="../shop/shop-list-view-small.html" class="nav-link u-header__sub-menu-nav-link">Shop List View Small</a></li>
-                                                            <li><a href="../shop/shop-left-sidebar.html" class="nav-link u-header__sub-menu-nav-link">Shop Left Sidebar</a></li>
-                                                            <li><a href="../shop/shop-full-width.html" class="nav-link u-header__sub-menu-nav-link">Shop Full width</a></li>
-                                                            <li><a href="../shop/shop-right-sidebar.html" class="nav-link u-header__sub-menu-nav-link">Shop Right Sidebar</a></li>
-                                                        </ul>
-                                                        <span class="u-header__sub-menu-title">Product Categories</span>
-                                                        <ul class="u-header__sub-menu-nav-group">
-                                                            <li><a href="../shop/product-categories-4-column-sidebar.html" class="nav-link u-header__sub-menu-nav-link">4 Column Sidebar</a></li>
-                                                            <li><a href="../shop/product-categories-5-column-sidebar.html" class="nav-link u-header__sub-menu-nav-link">5 Column Sidebar</a></li>
-                                                            <li><a href="../shop/product-categories-6-column-full-width.html" class="nav-link u-header__sub-menu-nav-link">6 Column Full width</a></li>
-                                                            <li><a href="../shop/product-categories-7-column-full-width.html" class="nav-link u-header__sub-menu-nav-link">7 Column Full width</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-md-3">
-                                                        <span class="u-header__sub-menu-title">Single Product Pages</span>
-                                                        <ul class="u-header__sub-menu-nav-group mb-3">
-                                                            <li><a href="../shop/single-product-extended.html" class="nav-link u-header__sub-menu-nav-link">Single Product Extended</a></li>
-                                                            <li><a href="../shop/single-product-fullwidth.html" class="nav-link u-header__sub-menu-nav-link">Single Product Fullwidth</a></li>
-                                                            <li><a href="../shop/single-product-sidebar.html" class="nav-link u-header__sub-menu-nav-link">Single Product Sidebar</a></li>
-                                                        </ul>
-                                                        <span class="u-header__sub-menu-title">Ecommerce Pages</span>
-                                                        <ul class="u-header__sub-menu-nav-group">
-                                                            <li><a href="../shop/shop.html" class="nav-link u-header__sub-menu-nav-link">Shop</a></li>
-                                                            <li><a href="../shop/cart.html" class="nav-link u-header__sub-menu-nav-link">Cart</a></li>
-                                                            <li><a href="../shop/checkout.html" class="nav-link u-header__sub-menu-nav-link">Checkout</a></li>
-                                                            <li><a href="../shop/my-account.html" class="nav-link u-header__sub-menu-nav-link">My Account</a></li>
-                                                            <li><a href="../shop/track-your-order.html" class="nav-link u-header__sub-menu-nav-link">Track your Order</a></li>
-                                                            <li><a href="../shop/compare.html" class="nav-link u-header__sub-menu-nav-link">Compare</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-md-3">
-                                                        <span class="u-header__sub-menu-title">Blog Pages</span>
-                                                        <ul class="u-header__sub-menu-nav-group mb-3">
-                                                            <li><a href="../blog/blog-v1.html" class="nav-link u-header__sub-menu-nav-link">Blog v1</a></li>
-                                                            <li><a href="../blog/blog-v2.html" class="nav-link u-header__sub-menu-nav-link">Blog v2</a></li>
-                                                            <li><a href="../blog/blog-v3.html" class="nav-link u-header__sub-menu-nav-link">Blog v3</a></li>
-                                                            <li><a href="../blog/blog-full-width.html" class="nav-link u-header__sub-menu-nav-link">Blog Full Width</a></li>
-                                                            <li><a href="../blog/single-blog-post.html" class="nav-link u-header__sub-menu-nav-link">Single Blog Post</a></li>
-                                                        </ul>
-                                                        <span class="u-header__sub-menu-title">Shop Columns</span>
-                                                        <ul class="u-header__sub-menu-nav-group">
-                                                            <li><a href="../shop/shop-7-columns-full-width.html" class="nav-link u-header__sub-menu-nav-link">7 Column Full width</a></li>
-                                                            <li><a href="../shop/shop-6-columns-full-width.html" class="nav-link u-header__sub-menu-nav-link">6 Column Full width</a></li>
-                                                            <li><a href="../shop/shop-5-columns-sidebar.html" class="nav-link u-header__sub-menu-nav-link">5 Column Sidebar</a></li>
-                                                            <li><a href="../shop/shop-4-columns-sidebar.html" class="nav-link u-header__sub-menu-nav-link">4 Column Sidebar</a></li>
-                                                            <li><a href="../shop/shop-3-columns-sidebar.html" class="nav-link u-header__sub-menu-nav-link">3 Column Sidebar</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- End Home - Mega Menu -->
+                                        <li class="nav-item u-header__nav-item">
+                                            <a  class="nav-link u-header__nav-link text-sale" href="javascript:;" aria-haspopup="true" aria-expanded="false">Home</a>
                                         </li>
                                         <!-- End Home -->
 
                                         <!-- Featured Brands -->
                                         <li class="nav-item u-header__nav-item">
-                                            <a class="nav-link u-header__nav-link" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">Featured Brands</a>
+                                            <a class="nav-link u-header__nav-link" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">About Us</a>
                                         </li>
                                         <!-- End Featured Brands -->
 
                                         <!-- Trending Styles -->
                                         <li class="nav-item u-header__nav-item">
-                                            <a class="nav-link u-header__nav-link" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu">Trending Styles</a>
+                                            <a class="nav-link u-header__nav-link" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu">Contact</a>
                                         </li>
                                         <!-- End Trending Styles -->
 
                                         <!-- Gift Cards -->
-                                        <li class="nav-item u-header__nav-item">
-                                            <a class="nav-link u-header__nav-link" href="javascript:;" aria-haspopup="true" aria-expanded="false">Gift Cards</a>
-                                        </li>
                                         <!-- End Gift Cards -->
 
                                         <!-- Button -->
                                         <li class="nav-item u-header__nav-last-item">
                                             <a class="text-gray-90" href="javascript:;">
-                                                Free Shipping on Orders $50+
+                                                Free Delivery on Orders <b>TSH</b> 50,000
                                             </a>
                                         </li>
                                         <!-- End Button -->

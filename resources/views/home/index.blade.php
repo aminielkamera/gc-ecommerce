@@ -19,10 +19,10 @@
                                 <div class="mb-4" data-scs-animation-in="fadeInUp" data-scs-animation-delay="300">
                                     <span class="font-size-13">FROM</span>
                                     <div class="font-size-50 font-weight-bold text-lh-45">
-                                        <sup class="">$</sup>749<sup class="">99</sup>
+                                        <sup class="">Tsh</sup>749<sup class="">99</sup>
                                     </div>
                                 </div>
-                                <a href="../shop/single-product-fullwidth.html" class="btn btn-primary transition-3d-hover rounded-lg font-weight-normal py-2 px-md-7 px-3 font-size-16" data-scs-animation-in="fadeInUp" data-scs-animation-delay="400">
+                                <a href="{{url('shop/single/product/width')}}" class="btn btn-primary transition-3d-hover rounded-lg font-weight-normal py-2 px-md-7 px-3 font-size-16" data-scs-animation-in="fadeInUp" data-scs-animation-delay="400">
                                     Start Buying
                                 </a>
                             </div>
@@ -42,7 +42,7 @@
                                 <div class="mb-4" data-scs-animation-in="fadeInUp" data-scs-animation-delay="300">
                                     <span class="font-size-13">FROM</span>
                                     <div class="font-size-50 font-weight-bold text-lh-45">
-                                        <sup class="">$</sup>749<sup class="">99</sup>
+                                        <sup class="">Tsh</sup>749<sup class="">99</sup>
                                     </div>
                                 </div>
                                 <a href="../shop/single-product-fullwidth.html" class="btn btn-primary transition-3d-hover rounded-lg font-weight-normal py-2 px-md-7 px-3 font-size-16" data-scs-animation-in="fadeInUp" data-scs-animation-delay="400">
@@ -65,7 +65,7 @@
                                 <div class="mb-4" data-scs-animation-in="fadeInUp" data-scs-animation-delay="300">
                                     <span class="font-size-13">FROM</span>
                                     <div class="font-size-50 font-weight-bold text-lh-45">
-                                        <sup class="">$</sup>749<sup class="">99</sup>
+                                        <sup class="">Tsh</sup>749<sup class="">99</sup>
                                     </div>
                                 </div>
                                 <a href="../shop/single-product-fullwidth.html" class="btn btn-primary transition-3d-hover rounded-lg font-weight-normal py-2 px-md-7 px-3 font-size-15" data-scs-animation-in="fadeInUp" data-scs-animation-delay="400">
@@ -179,7 +179,7 @@
                             <h3 class="font-size-22 mb-0 font-weight-normal text-lh-28 max-width-120">Special Offer</h3>
                             <div class="d-flex align-items-center flex-column justify-content-center bg-primary rounded-pill height-75 width-75 text-lh-1">
                                 <span class="font-size-12">Save</span>
-                                <div class="font-size-20 font-weight-bold">$120</div>
+                                <div class="font-size-20 font-weight-bold">Tsh120</div>
                             </div>
                         </div>
                         <div class="mb-4">
@@ -187,8 +187,8 @@
                         </div>
                         <h5 class="mb-2 font-size-14 text-center mx-auto max-width-180 text-lh-18"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Game Console Controller + USB 3.0 Cable</a></h5>
                         <div class="d-flex align-items-center justify-content-center mb-3">
-                            <del class="font-size-18 mr-2 text-gray-2">$99,00</del>
-                            <ins class="font-size-30 text-red text-decoration-none">$79,00</ins>
+                            <del class="font-size-18 mr-2 text-gray-2">Tsh99,00</del>
+                            <ins class="font-size-30 text-red text-decoration-none">Tsh79,00</ins>
                         </div>
                         <div class="mb-3 mx-2">
                             <div class="d-flex justify-content-between align-items-center mb-2">
@@ -274,7 +274,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -301,8 +301,8 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price d-flex align-items-center flex-wrap position-relative">
-                                                            <ins class="font-size-20 text-red text-decoration-none mr-2">$1999,00</ins>
-                                                            <del class="font-size-12 tex-gray-6 position-absolute bottom-100">$2 299,00</del>
+                                                            <ins class="font-size-20 text-red text-decoration-none mr-2">Tsh1999,00</ins>
+                                                            <del class="font-size-12 tex-gray-6 position-absolute bottom-100">Tsh2 299,00</del>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -329,7 +329,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -356,7 +356,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -383,7 +383,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -410,7 +410,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -437,7 +437,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -464,7 +464,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -495,7 +495,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -522,7 +522,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -549,7 +549,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -576,7 +576,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -603,7 +603,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -630,7 +630,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -657,7 +657,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -684,7 +684,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -715,7 +715,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -742,7 +742,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -769,7 +769,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -796,7 +796,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -823,7 +823,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -850,7 +850,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -877,7 +877,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -904,7 +904,7 @@
                                                     </div>
                                                     <div class="flex-center-between mb-1">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                         <div class="d-none d-xl-block prodcut-add-cart">
                                                             <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1023,7 +1023,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1050,7 +1050,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1077,7 +1077,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1104,7 +1104,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1183,7 +1183,7 @@
                                                 </div>
                                                 <div class="flex-center-between">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-add-cart__wide btn-primary transition-3d-hover"><i class="ec ec-add-to-cart mr-2"></i> Add to Cart</a>
@@ -1214,7 +1214,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1241,7 +1241,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1268,7 +1268,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1295,7 +1295,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1330,7 +1330,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1357,7 +1357,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1384,7 +1384,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1411,7 +1411,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1490,7 +1490,7 @@
                                                 </div>
                                                 <div class="flex-center-between">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-add-cart__wide btn-primary transition-3d-hover"><i class="ec ec-add-to-cart mr-2"></i> Add to Cart</a>
@@ -1521,7 +1521,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1548,7 +1548,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1575,7 +1575,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1602,7 +1602,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1637,7 +1637,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1664,7 +1664,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1691,7 +1691,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1718,7 +1718,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1797,7 +1797,7 @@
                                                 </div>
                                                 <div class="flex-center-between">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-add-cart__wide btn-primary transition-3d-hover"><i class="ec ec-add-to-cart mr-2"></i> Add to Cart</a>
@@ -1828,7 +1828,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1855,7 +1855,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1882,7 +1882,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1909,7 +1909,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1944,7 +1944,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1971,7 +1971,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -1998,7 +1998,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2025,7 +2025,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2104,7 +2104,7 @@
                                                 </div>
                                                 <div class="flex-center-between">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-add-cart__wide btn-primary transition-3d-hover"><i class="ec ec-add-to-cart mr-2"></i> Add to Cart</a>
@@ -2135,7 +2135,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2162,7 +2162,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2189,7 +2189,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2216,7 +2216,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2251,7 +2251,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2278,7 +2278,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2305,7 +2305,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2332,7 +2332,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2411,7 +2411,7 @@
                                                 </div>
                                                 <div class="flex-center-between">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-add-cart__wide btn-primary transition-3d-hover"><i class="ec ec-add-to-cart mr-2"></i> Add to Cart</a>
@@ -2442,7 +2442,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2469,7 +2469,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2496,7 +2496,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2523,7 +2523,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2558,7 +2558,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2585,7 +2585,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2612,7 +2612,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2639,7 +2639,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2718,7 +2718,7 @@
                                                 </div>
                                                 <div class="flex-center-between">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-add-cart__wide btn-primary transition-3d-hover"><i class="ec ec-add-to-cart mr-2"></i> Add to Cart</a>
@@ -2749,7 +2749,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2776,7 +2776,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2803,7 +2803,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2830,7 +2830,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2865,7 +2865,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2892,7 +2892,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2919,7 +2919,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -2946,7 +2946,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3025,7 +3025,7 @@
                                                 </div>
                                                 <div class="flex-center-between">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-add-cart__wide btn-primary transition-3d-hover"><i class="ec ec-add-to-cart mr-2"></i> Add to Cart</a>
@@ -3056,7 +3056,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3083,7 +3083,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3110,7 +3110,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3137,7 +3137,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3172,7 +3172,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3199,7 +3199,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3226,7 +3226,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3253,7 +3253,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3332,7 +3332,7 @@
                                                 </div>
                                                 <div class="flex-center-between">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-add-cart__wide btn-primary transition-3d-hover"><i class="ec ec-add-to-cart mr-2"></i> Add to Cart</a>
@@ -3363,7 +3363,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3390,7 +3390,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3417,7 +3417,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3444,7 +3444,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3479,7 +3479,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3506,7 +3506,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3533,7 +3533,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3560,7 +3560,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3639,7 +3639,7 @@
                                                 </div>
                                                 <div class="flex-center-between">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-add-cart__wide btn-primary transition-3d-hover"><i class="ec ec-add-to-cart mr-2"></i> Add to Cart</a>
@@ -3670,7 +3670,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3697,7 +3697,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3724,7 +3724,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -3751,7 +3751,7 @@
                                                 </div>
                                                 <div class="flex-center-between mb-1">
                                                     <div class="prodcut-price">
-                                                        <div class="text-gray-100">$685,00</div>
+                                                        <div class="text-gray-100">Tsh685,00</div>
                                                     </div>
                                                     <div class="d-none d-xl-block prodcut-add-cart">
                                                         <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -5997,7 +5997,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$629,00</div>
+                                                <div class="text-gray-100">Tsh629,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6026,7 +6026,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$1 299,00</div>
+                                                <div class="text-gray-100">Tsh1 299,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6055,7 +6055,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$110,00</div>
+                                                <div class="text-gray-100">Tsh110,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6084,7 +6084,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$110,00</div>
+                                                <div class="text-gray-100">Tsh110,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6113,7 +6113,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$110,00</div>
+                                                <div class="text-gray-100">Tsh110,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6142,7 +6142,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$799,00</div>
+                                                <div class="text-gray-100">Tsh799,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6171,7 +6171,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$799,00</div>
+                                                <div class="text-gray-100">Tsh799,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6200,7 +6200,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$559.00</div>
+                                                <div class="text-gray-100">Tsh559.00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6233,7 +6233,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$629,00</div>
+                                                <div class="text-gray-100">Tsh629,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6262,7 +6262,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$1 299,00</div>
+                                                <div class="text-gray-100">Tsh1 299,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6291,7 +6291,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$110,00</div>
+                                                <div class="text-gray-100">Tsh110,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6320,7 +6320,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$110,00</div>
+                                                <div class="text-gray-100">Tsh110,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6349,7 +6349,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$110,00</div>
+                                                <div class="text-gray-100">Tsh110,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6378,7 +6378,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$799,00</div>
+                                                <div class="text-gray-100">Tsh799,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6407,7 +6407,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$799,00</div>
+                                                <div class="text-gray-100">Tsh799,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6436,7 +6436,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$559.00</div>
+                                                <div class="text-gray-100">Tsh559.00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6469,7 +6469,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$629,00</div>
+                                                <div class="text-gray-100">Tsh629,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6498,7 +6498,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$1 299,00</div>
+                                                <div class="text-gray-100">Tsh1 299,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6527,7 +6527,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$110,00</div>
+                                                <div class="text-gray-100">Tsh110,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6556,7 +6556,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$110,00</div>
+                                                <div class="text-gray-100">Tsh110,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6585,7 +6585,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$110,00</div>
+                                                <div class="text-gray-100">Tsh110,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6614,7 +6614,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$799,00</div>
+                                                <div class="text-gray-100">Tsh799,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6643,7 +6643,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$799,00</div>
+                                                <div class="text-gray-100">Tsh799,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6672,7 +6672,7 @@
                                         </div>
                                         <div class="flex-center-between mb-3">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$559.00</div>
+                                                <div class="text-gray-100">Tsh559.00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6704,7 +6704,7 @@
                                 <div class="bg-primary rounded-lg px-6 py-2">
                                     <em class="font-size-14 font-weight-light">STARTING AT</em>
                                     <div class="font-size-30 font-weight-bold text-lh-1">
-                                        <sup class="">$</sup>79<sup class="">99</sup>
+                                        <sup class="">Tsh</sup>79<sup class="">99</sup>
                                     </div>
                                 </div>
                             </div>
@@ -6758,7 +6758,7 @@
                                         </div>
                                         <div class="flex-center-between mb-1">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$685,00</div>
+                                                <div class="text-gray-100">Tsh685,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6787,7 +6787,7 @@
                                         </div>
                                         <div class="flex-center-between mb-1">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$685,00</div>
+                                                <div class="text-gray-100">Tsh685,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6816,7 +6816,7 @@
                                         </div>
                                         <div class="flex-center-between mb-1">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$685,00</div>
+                                                <div class="text-gray-100">Tsh685,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6845,7 +6845,7 @@
                                         </div>
                                         <div class="flex-center-between mb-1">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$685,00</div>
+                                                <div class="text-gray-100">Tsh685,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6874,7 +6874,7 @@
                                         </div>
                                         <div class="flex-center-between mb-1">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$685,00</div>
+                                                <div class="text-gray-100">Tsh685,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6903,7 +6903,7 @@
                                         </div>
                                         <div class="flex-center-between mb-1">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$685,00</div>
+                                                <div class="text-gray-100">Tsh685,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6932,7 +6932,7 @@
                                         </div>
                                         <div class="flex-center-between mb-1">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$685,00</div>
+                                                <div class="text-gray-100">Tsh685,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6961,7 +6961,7 @@
                                         </div>
                                         <div class="flex-center-between mb-1">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$685,00</div>
+                                                <div class="text-gray-100">Tsh685,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
@@ -6990,7 +6990,7 @@
                                         </div>
                                         <div class="flex-center-between mb-1">
                                             <div class="prodcut-price">
-                                                <div class="text-gray-100">$685,00</div>
+                                                <div class="text-gray-100">Tsh685,00</div>
                                             </div>
                                             <div class="d-none d-xl-block prodcut-add-cart">
                                                 <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>

@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('home.index');
 });
 
+Route::get('shop/single/product/width', function(){
+    return view('shop.single-product-fullwidth');
+});
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
