@@ -461,13 +461,13 @@
 
                                         <!-- Featured Brands -->
                                         <li class="nav-item u-header__nav-item">
-                                            <a class="nav-link u-header__nav-link" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">About Us</a>
+                                            <a class="nav-link u-header__nav-link" href="{{url('about-us')}}" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">About Us</a>
                                         </li>
                                         <!-- End Featured Brands -->
 
                                         <!-- Trending Styles -->
                                         <li class="nav-item u-header__nav-item">
-                                            <a class="nav-link u-header__nav-link" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu">Contact</a>
+                                            <a class="nav-link u-header__nav-link" href="{{url('contact-us')}}" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu">Contact</a>
                                         </li>
                                         <!-- End Trending Styles -->
 

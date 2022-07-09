@@ -101,8 +101,8 @@
                         <p><strong>SKU</strong>: FW511948218</p>
                         <div class="mb-4">
                             <div class="d-flex align-items-baseline">
-                                <ins class="font-size-36 text-decoration-none">$1,999.00</ins>
-                                <del class="font-size-20 ml-2 text-gray-6">$2,299.00</del>
+                                <ins class="font-size-36 text-decoration-none">Tsh1,999.00</ins>
+                                <del class="font-size-20 ml-2 text-gray-6">Tsh2,299.00</del>
                             </div>
                         </div>
                         <div class="border-top border-bottom py-3 mb-4">
@@ -180,11 +180,11 @@
                                                     <div class="mb-2 d-none d-md-block"><a href="../shop/product-categories-7-column-full-width.html" class="font-size-12 text-gray-5">Speakers</a></div>
                                                     <h5 class="mb-1 product-item__title d-none d-md-block"><a href="#" class="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                     <div class="mb-2">
-                                                        <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img1.jpg')}}" alt="Image Description"></a>
+                                                        <a href="{{url('shop/single/product/width')}}" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img1.jpg')}}" alt="Image Description"></a>
                                                     </div>
                                                     <div class="flex-center-between mb-1 d-none d-md-block">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -198,12 +198,12 @@
                                                     <div class="mb-2 d-none d-md-block"><a href="../shop/product-categories-7-column-full-width.html" class="font-size-12 text-gray-5">Speakers</a></div>
                                                     <h5 class="mb-1 product-item__title d-none d-md-block"><a href="#" class="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
                                                     <div class="mb-2">
-                                                        <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img2.jpg')}}" alt="Image Description"></a>
+                                                        <a href="{{url('shop/single/product/width')}}" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img2.jpg')}}" alt="Image Description"></a>
                                                     </div>
                                                     <div class="flex-center-between mb-1 d-none d-md-block">
                                                         <div class="prodcut-price d-flex align-items-center position-relative">
-                                                            <ins class="font-size-20 text-red text-decoration-none">$1999,00</ins>
-                                                            <del class="font-size-12 tex-gray-6 position-absolute bottom-100">$2 299,00</del>
+                                                            <ins class="font-size-20 text-red text-decoration-none">Tsh1999,00</ins>
+                                                            <del class="font-size-12 tex-gray-6 position-absolute bottom-100">Tsh2 299,00</del>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -217,11 +217,11 @@
                                                     <div class="mb-2 d-none d-md-block"><a href="../shop/product-categories-7-column-full-width.html" class="font-size-12 text-gray-5">Speakers</a></div>
                                                     <h5 class="mb-1 product-item__title d-none d-md-block"><a href="#" class="text-blue font-weight-bold">Purple Solo 2 Wireless</a></h5>
                                                     <div class="mb-2">
-                                                        <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img3.jpg')}}" alt="Image Description"></a>
+                                                        <a href="{{url('shop/single/product/width')}}" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img3.jpg')}}" alt="Image Description"></a>
                                                     </div>
                                                     <div class="flex-center-between mb-1 d-none d-md-block">
                                                         <div class="prodcut-price">
-                                                            <div class="text-gray-100">$685,00</div>
+                                                            <div class="text-gray-100">Tsh685,00</div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -232,26 +232,26 @@
                                 <div class="form-check pl-4 pl-md-0 ml-md-4 mb-2 pb-2 pb-md-0 mb-md-0 border-bottom border-md-bottom-0">
                                     <input class="form-check-input" type="checkbox" value="" id="inlineCheckbox1" checked disabled>
                                     <label class="form-check-label mb-1" for="inlineCheckbox1">
-                                        <strong>This product: </strong> Ultra Wireless S50 Headphones S50 with Bluetooth - <span class="text-red font-size-16">$35.00</span>
+                                        <strong>This product: </strong> Ultra Wireless S50 Headphones S50 with Bluetooth - <span class="text-red font-size-16">Tsh35.00</span>
                                     </label>
                                 </div>
                                 <div class="form-check pl-4 pl-md-0 ml-md-4 mb-2 pb-2 pb-md-0 mb-md-0 border-bottom border-md-bottom-0">
                                     <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option1" checked>
                                     <label class="form-check-label mb-1 text-blue" for="inlineCheckbox2">
-                                        <span class="text-decoration-on cursor-pointer-on">Universal Headphones Case in Black</span> - <span class="text-red font-size-16">$159.00</span>
+                                        <span class="text-decoration-on cursor-pointer-on">Universal Headphones Case in Black</span> - <span class="text-red font-size-16">Tsh159.00</span>
                                     </label>
                                 </div>
                                 <div class="form-check pl-4 pl-md-0 ml-md-4 mb-2 pb-2 pb-md-0 mb-md-0 border-bottom border-md-bottom-0">
                                     <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option2" checked>
                                     <label class="form-check-label mb-1 text-blue" for="inlineCheckbox3">
-                                        <span class="text-decoration-on cursor-pointer-on">Headphones USB Wires</span> - <span class="text-red font-size-16">$50.00</span>
+                                        <span class="text-decoration-on cursor-pointer-on">Headphones USB Wires</span> - <span class="text-red font-size-16">Tsh50.00</span>
                                     </label>
                                 </div>
                             </div>
                             <div class="col-md-auto">
                                 <div class="mr-xl-15">
                                     <div class="mb-3">
-                                        <div class="text-red font-size-26 text-lh-1dot2">$244.00</div>
+                                        <div class="text-red font-size-26 text-lh-1dot2">Tsh244.00</div>
                                         <div class="text-gray-6">for 3 item(s)</div>
                                     </div>
                                     <a href="#" class="btn btn-sm btn-block btn-primary-dark btn-wide transition-3d-hover">Add all to cart</a>
@@ -666,23 +666,23 @@
                         <div class="product-item__inner px-xl-4 p-3">
                             <div class="product-item__body pb-xl-2">
                                 <div class="mb-2"><a href="../shop/product-categories-7-column-full-width.html" class="font-size-12 text-gray-5">Speakers</a></div>
-                                <h5 class="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
+                                <h5 class="mb-1 product-item__title"><a href="{{url('shop/single/product/width')}}" class="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                 <div class="mb-2">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img1.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{url('shop/single/product/width')}}" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img1.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="flex-center-between mb-1">
                                     <div class="prodcut-price">
-                                        <div class="text-gray-100">$685,00</div>
+                                        <div class="text-gray-100">Tsh685,00</div>
                                     </div>
                                     <div class="d-none d-xl-block prodcut-add-cart">
-                                        <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
+                                        <a href="{{url('shop/single/product/width')}}" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
                                     <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
-                                    <a href="../shop/wishlist.html" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
+                                    <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>
                         </div>
@@ -693,24 +693,24 @@
                         <div class="product-item__inner px-xl-4 p-3">
                             <div class="product-item__body pb-xl-2">
                                 <div class="mb-2"><a href="../shop/product-categories-7-column-full-width.html" class="font-size-12 text-gray-5">Speakers</a></div>
-                                <h5 class="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
+                                <h5 class="mb-1 product-item__title"><a href="{{url('shop/single/product/width')}}" class="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
                                 <div class="mb-2">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img2.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{url('shop/single/product/width')}}" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img2.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="flex-center-between mb-1">
                                     <div class="prodcut-price d-flex align-items-center position-relative">
-                                        <ins class="font-size-20 text-red text-decoration-none">$1999,00</ins>
-                                        <del class="font-size-12 tex-gray-6 position-absolute bottom-100">$2 299,00</del>
+                                        <ins class="font-size-20 text-red text-decoration-none">Tsh1999,00</ins>
+                                        <del class="font-size-12 tex-gray-6 position-absolute bottom-100">Tsh2 299,00</del>
                                     </div>
                                     <div class="d-none d-xl-block prodcut-add-cart">
-                                        <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
+                                        <a href="{{url('shop/single/product/width')}}" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
                                     <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
-                                    <a href="../shop/wishlist.html" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
+                                    <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>
                         </div>
@@ -721,23 +721,23 @@
                         <div class="product-item__inner px-xl-4 p-3">
                             <div class="product-item__body pb-xl-2">
                                 <div class="mb-2"><a href="../shop/product-categories-7-column-full-width.html" class="font-size-12 text-gray-5">Speakers</a></div>
-                                <h5 class="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Purple Solo 2 Wireless</a></h5>
+                                <h5 class="mb-1 product-item__title"><a href="{{url('shop/single/product/width')}}" class="text-blue font-weight-bold">Purple Solo 2 Wireless</a></h5>
                                 <div class="mb-2">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img3.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{url('shop/single/product/width')}}" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img3.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="flex-center-between mb-1">
                                     <div class="prodcut-price">
-                                        <div class="text-gray-100">$685,00</div>
+                                        <div class="text-gray-100">Tsh685,00</div>
                                     </div>
                                     <div class="d-none d-xl-block prodcut-add-cart">
-                                        <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
+                                        <a href="{{url('shop/single/product/width')}}" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
                                     <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
-                                    <a href="../shop/wishlist.html" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
+                                    <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>
                         </div>
@@ -748,23 +748,23 @@
                         <div class="product-item__inner px-xl-4 p-3">
                             <div class="product-item__body pb-xl-2">
                                 <div class="mb-2"><a href="../shop/product-categories-7-column-full-width.html" class="font-size-12 text-gray-5">Speakers</a></div>
-                                <h5 class="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Smartphone 6S 32GB LTE</a></h5>
+                                <h5 class="mb-1 product-item__title"><a href="{{url('shop/single/product/width')}}" class="text-blue font-weight-bold">Smartphone 6S 32GB LTE</a></h5>
                                 <div class="mb-2">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img4.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{url('shop/single/product/width')}}" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img4.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="flex-center-between mb-1">
                                     <div class="prodcut-price">
-                                        <div class="text-gray-100">$685,00</div>
+                                        <div class="text-gray-100">Tsh685,00</div>
                                     </div>
                                     <div class="d-none d-xl-block prodcut-add-cart">
-                                        <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
+                                        <a href="{{url('shop/single/product/width')}}" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
                                     <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
-                                    <a href="../shop/wishlist.html" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
+                                    <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>
                         </div>
@@ -775,23 +775,23 @@
                         <div class="product-item__inner px-xl-4 p-3">
                             <div class="product-item__body pb-xl-2">
                                 <div class="mb-2"><a href="../shop/product-categories-7-column-full-width.html" class="font-size-12 text-gray-5">Speakers</a></div>
-                                <h5 class="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Widescreen NX Mini F1 SMART NX</a></h5>
+                                <h5 class="mb-1 product-item__title"><a href="{{url('shop/single/product/width')}}" class="text-blue font-weight-bold">Widescreen NX Mini F1 SMART NX</a></h5>
                                 <div class="mb-2">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img5.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{url('shop/single/product/width')}}" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img5.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="flex-center-between mb-1">
                                     <div class="prodcut-price">
-                                        <div class="text-gray-100">$685,00</div>
+                                        <div class="text-gray-100">Tsh685,00</div>
                                     </div>
                                     <div class="d-none d-xl-block prodcut-add-cart">
-                                        <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
+                                        <a href="{{url('shop/single/product/width')}}" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
                                     <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
-                                    <a href="../shop/wishlist.html" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
+                                    <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>
                         </div>
@@ -802,24 +802,24 @@
                         <div class="product-item__inner px-xl-4 p-3">
                             <div class="product-item__body pb-xl-2">
                                 <div class="mb-2"><a href="../shop/product-categories-7-column-full-width.html" class="font-size-12 text-gray-5">Speakers</a></div>
-                                <h5 class="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
+                                <h5 class="mb-1 product-item__title"><a href="{{url('shop/single/product/width')}}" class="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
                                 <div class="mb-2">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img2.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{url('shop/single/product/width')}}" class="d-block text-center"><img class="img-fluid" src="{{ asset('assets/img/212X200/img2.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="flex-center-between mb-1">
                                     <div class="prodcut-price d-flex align-items-center position-relative">
-                                        <ins class="font-size-20 text-red text-decoration-none">$1999,00</ins>
-                                        <del class="font-size-12 tex-gray-6 position-absolute bottom-100">$2 299,00</del>
+                                        <ins class="font-size-20 text-red text-decoration-none">Tsh1999,00</ins>
+                                        <del class="font-size-12 tex-gray-6 position-absolute bottom-100">Tsh2 299,00</del>
                                     </div>
                                     <div class="d-none d-xl-block prodcut-add-cart">
-                                        <a href="../shop/single-product-fullwidth.html" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
+                                        <a href="{{url('shop/single/product/width')}}" class="btn-add-cart btn-primary transition-3d-hover"><i class="ec ec-add-to-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
                                     <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
-                                    <a href="../shop/wishlist.html" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
+                                    <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>
                         </div>

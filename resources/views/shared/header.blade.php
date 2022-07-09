@@ -6,7 +6,7 @@
                     <div class="container">
                         <div class="d-flex align-items-center">
                             <div class="topbar-left">
-                                <a href="javascript:;" class="text-gray-110 font-size-13 hover-on-dark">Welcome to G-Computer Accessories Store</a>
+                                <a href="{{url('/')}}" class="text-gray-110 font-size-13 hover-on-dark">Welcome to G-Computer Accessories Store</a>
                             </div>
                             <div class="topbar-right ml-auto">
                                 <ul class="list-inline mb-0">
@@ -46,7 +46,7 @@
                                 <!-- Nav -->
                                 <nav class="navbar navbar-expand u-header__navbar py-0 justify-content-xl-between max-width-270 min-width-270">
                                     <!-- Logo -->
-                                    <a class="order-1 order-xl-0 navbar-brand u-header__navbar-brand u-header__navbar-brand-center" href="../home/index.html" aria-label="Electro">
+                                    <a class="order-1 order-xl-0 navbar-brand u-header__navbar-brand u-header__navbar-brand-center" href="{{url('/')}}" aria-label="Electro">
                                         <svg version="1.1" x="0px" y="0px" width="175.748px" height="42.52px" viewBox="0 0 175.748 42.52" enable-background="new 0 0 175.748 42.52" style="margin-bottom: 0;">
                                             <ellipse class="ellipse-bg" fill-rule="evenodd" clip-rule="evenodd" fill="#FDD700" cx="170.05" cy="36.341" rx="5.32" ry="5.367"></ellipse>
                                             <path fill-rule="evenodd" clip-rule="evenodd" fill="#333E48" d="M30.514,0.71c-0.034,0.003-0.066,0.008-0.056,0.056
@@ -136,7 +136,7 @@
                                                 <div class="js-scrollbar u-sidebar__body">
                                                     <div id="headerSidebarContent" class="u-sidebar__content u-header-sidebar__content">
                                                         <!-- Logo -->
-                                                        <a class="navbar-brand u-header__navbar-brand u-header__navbar-brand-center mb-3" href="index.html" aria-label="Electro">
+                                                        <a class="navbar-brand u-header__navbar-brand u-header__navbar-brand-center mb-3" href="{{url('/')}}" aria-label="Electro">
                                                             <svg version="1.1" x="0px" y="0px" width="175.748px" height="42.52px" viewBox="0 0 175.748 42.52" enable-background="new 0 0 175.748 42.52" style="margin-bottom: 0;">
                                                                 <ellipse class="ellipse-bg" fill-rule="evenodd" clip-rule="evenodd" fill="#FDD700" cx="170.05" cy="36.341" rx="5.32" ry="5.367"></ellipse>
                                                                 <path fill-rule="evenodd" clip-rule="evenodd" fill="#333E48" d="M30.514,0.71c-0.034,0.003-0.066,0.008-0.056,0.056
@@ -860,7 +860,7 @@
                                                                 <ul id="homeSubMenu" class="hs-sub-menu u-header__sub-menu animated hs-position-left fadeOut" aria-labelledby="homeMegaMenu" style="min-width: 230px; display: none;">
 
                                                                     <li class="hs-has-sub-menu">
-                                                                        <a class="nav-link u-header__sub-menu-nav-link " href="index.html">Home-v1</a>
+                                                                        <a class="nav-link u-header__sub-menu-nav-link " href="{{url('/')}}">Home-v1</a>
                                                                     </li>
 
                                                                     <li class="hs-has-sub-menu">
@@ -895,19 +895,19 @@
                                     <ul class="navbar-nav u-header__navbar-nav">
                                         <!-- Home -->
                                         <li class="nav-item u-header__nav-item">
-                                            <a  class="nav-link u-header__nav-link text-sale" href="javascript:;" aria-haspopup="true" aria-expanded="false">Home</a>
+                                            <a  class="nav-link u-header__nav-link text-sale" href="{{url('/')}}" aria-haspopup="true" aria-expanded="false">Home</a>
                                         </li>
                                         <!-- End Home -->
 
                                         <!-- Featured Brands -->
                                         <li class="nav-item u-header__nav-item">
-                                            <a class="nav-link u-header__nav-link" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">About Us</a>
+                                            <a class="nav-link u-header__nav-link" href="{{url('about-us')}}" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">About Us</a>
                                         </li>
                                         <!-- End Featured Brands -->
 
                                         <!-- Trending Styles -->
                                         <li class="nav-item u-header__nav-item">
-                                            <a class="nav-link u-header__nav-link" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu">Contact</a>
+                                            <a class="nav-link u-header__nav-link" href="{{url('contact-us')}}" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu">Contact</a>
                                         </li>
                                         <!-- End Trending Styles -->
 

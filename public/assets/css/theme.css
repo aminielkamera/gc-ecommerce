@@ -3123,7 +3123,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: rgb(208, 226, 236);;
+  color: #ffffff;
   background: linear-gradient(45deg, #1c65c9 0%, #00233B 100%);
   border-color: #1c65c9;
 }
@@ -29876,7 +29876,9 @@ label.btn {
 
 .nav-classic .nav-link.active {
   color: #fed700;
-  border-bottom-color: #fed700;
+  border-bottom: 2px solid transparent;
+  border-image: -webkit-linear-gradient( left, #1c65c9 0%, #00233B 100%);
+  border-image-slice: 1;
 }
 
 .nav-borderless {
@@ -35220,7 +35222,7 @@ blockquote:not(.blockquote) p {
 }
 
 .text-white-90 {
-    color: rgb(208, 226, 236);
+    color: #ffffff;
   }
 
   .text-white-90[href]:hover {

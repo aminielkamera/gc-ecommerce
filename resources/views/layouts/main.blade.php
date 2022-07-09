@@ -3,7 +3,7 @@
 
 <head>
     <!-- Title -->
-    <title>Home-v1 | Electro - Responsive Website Template</title>
+    <title>G-Computer $ Accessories</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">

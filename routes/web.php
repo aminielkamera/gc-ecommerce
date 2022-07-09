@@ -20,7 +20,21 @@ Route::get('/', function () {
 Route::get('shop/single/product/width', function(){
     return view('shop.single-product-fullwidth');
 });
-
+Route::get('shop', function(){
+    return view('shop.shop');
+});
+Route::get('shop/compare' , function(){
+    return view('shop.compare');
+});
+Route::get('shop/wishlist', function(){
+    return view('shop.wishlist');
+});
+Route::get('about-us', function(){
+    return view('home.about');
+});
+Route::get('contact-us', function(){
+   return view('home.contact-us');
+});
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
