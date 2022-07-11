@@ -3,7 +3,7 @@
 
 <head>
     <!-- Title -->
-    <title>G-Computer $ Accessories</title>
+    <title>G-Computer & Accessories</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
@@ -13,7 +13,7 @@
     <link rel="shortcut icon" href="{{ asset('favicon.png')}}">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" rel="stylesheet"> -->
 
     <!-- CSS Implementing Plugins -->
     <link rel="stylesheet" href="{{ asset('assets/vendor/font-awesome/css/fontawesome-all.min.css')}}">

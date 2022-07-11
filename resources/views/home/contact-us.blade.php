@@ -110,7 +110,7 @@
         </div>
     </div>
     <div class="mb-8">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.835252972956!2d144.95592398991224!3d-37.817327693787625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1575470633967!5m2!1sen!2sin" width="100%" height="514" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.5580204774515!2d39.27041091477238!3d-6.823483295068453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4bae9ff68b35%3A0x44526e65b1a8ee0d!2sLikoma%20%26%20Aggrey%20Street%2C%20Dar%20es%20Salaam!5e0!3m2!1sen!2stz!4v1657570356337!5m2!1sen!2stz" width="100%" height="500" style="border:0;" allowfullscreen=""></iframe>
     </div>
 </main>
 <!-- ========== END MAIN CONTENT ========== -->

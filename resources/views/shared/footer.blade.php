@@ -11,10 +11,10 @@
                             <ul class="list-unstyled products-group">
                                 <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
                                     <div class="col-auto">
-                                        <a href="../shop/single-product-fullwidth.html" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img1.jpg')}}" alt="Image Description"></a>
+                                        <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img1.jpg')}}" alt="Image Description"></a>
                                     </div>
                                     <div class="col pl-4 d-flex flex-column">
-                                        <h5 class="product-item__title mb-0"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Purple Wireless Headphones Solo 2 HD</a></h5>
+                                        <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Purple Wireless Headphones Solo 2 HD</a></h5>
                                         <div class="prodcut-price mt-auto">
                                             <div class="font-size-15">Tsh1149.00</div>
                                         </div>
@@ -22,10 +22,10 @@
                                 </li>
                                 <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
                                     <div class="col-auto">
-                                        <a href="../shop/single-product-fullwidth.html" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img2.jpg')}}" alt="Image Description"></a>
+                                        <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img2.jpg')}}" alt="Image Description"></a>
                                     </div>
                                     <div class="col pl-4 d-flex flex-column">
-                                        <h5 class="product-item__title mb-0"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Powerbank 1130 mAh Blue</a></h5>
+                                        <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Powerbank 1130 mAh Blue</a></h5>
                                         <div class="prodcut-price mt-auto">
                                             <div class="font-size-15">Tsh210.00</div>
                                         </div>
@@ -33,10 +33,10 @@
                                 </li>
                                 <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
                                     <div class="col-auto">
-                                        <a href="../shop/single-product-fullwidth.html" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img3.jpg')}}" alt="Image Description"></a>
+                                        <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img3.jpg')}}" alt="Image Description"></a>
                                     </div>
                                     <div class="col pl-4 d-flex flex-column">
-                                        <h5 class="product-item__title mb-0"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Nerocool EN52377 Dead Silence Gaming Cube Case</a></h5>
+                                        <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Nerocool EN52377 Dead Silence Gaming Cube Case</a></h5>
                                         <div class="prodcut-price mt-auto">
                                             <div class="font-size-15">Tsh180.00</div>
                                         </div>
@@ -52,10 +52,10 @@
                         <ul class="list-unstyled products-group">
                             <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
                                 <div class="col-auto">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img4.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img4.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Yellow Earphones Waterproof with Bluetooth</a></h5>
+                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Yellow Earphones Waterproof with Bluetooth</a></h5>
                                     <div class="prodcut-price mt-auto flex-horizontal-center">
                                         <ins class="font-size-15 text-decoration-none">Tsh110.00</ins>
                                         <del class="font-size-12 text-gray-9 ml-2">Tsh250.00</del>
@@ -64,10 +64,10 @@
                             </li>
                             <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
                                 <div class="col-auto">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img5.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img5.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Camera C430W 4k Waterproof</a></h5>
+                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Camera C430W 4k Waterproof</a></h5>
                                     <div class="prodcut-price mt-auto flex-horizontal-center">
                                         <ins class="font-size-15 text-decoration-none">Tsh899.00</ins>
                                         <del class="font-size-12 text-gray-9 ml-2">Tsh1200.00</del>
@@ -76,10 +76,10 @@
                             </li>
                             <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
                                 <div class="col-auto">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img6.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img6.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Smartphone 6S 32GB LTE</a></h5>
+                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Smartphone 6S 32GB LTE</a></h5>
                                     <div class="prodcut-price mt-auto flex-horizontal-center">
                                         <ins class="font-size-15 text-decoration-none">Tsh2100.00</ins>
                                         <del class="font-size-12 text-gray-9 ml-2">Tsh3299.00</del>
@@ -95,10 +95,10 @@
                         <ul class="list-unstyled products-group">
                             <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
                                 <div class="col-auto">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img7.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img7.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Smartwatch 2.0 LTE Wifi Waterproof</a></h5>
+                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Smartwatch 2.0 LTE Wifi Waterproof</a></h5>
                                     <div class="text-warning mb-2">
                                         <small class="fas fa-star"></small>
                                         <small class="fas fa-star"></small>
@@ -113,10 +113,10 @@
                             </li>
                             <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
                                 <div class="col-auto">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img8.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img8.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">22Mps Camera 6200U with 500GB SDcard</a></h5>
+                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">22Mps Camera 6200U with 500GB SDcard</a></h5>
                                     <div class="text-warning mb-2">
                                         <small class="fas fa-star"></small>
                                         <small class="fas fa-star"></small>
@@ -131,10 +131,10 @@
                             </li>
                             <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
                                 <div class="col-auto">
-                                    <a href="../shop/single-product-fullwidth.html" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img9.jpg')}}" alt="Image Description"></a>
+                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img9.jpg')}}" alt="Image Description"></a>
                                 </div>
                                 <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="../shop/single-product-fullwidth.html" class="text-blue font-weight-bold">Full Color LaserJet Pro M452dn</a></h5>
+                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Full Color LaserJet Pro M452dn</a></h5>
                                     <div class="text-warning mb-2">
                                         <small class="fas fa-star"></small>
                                         <small class="fas fa-star"></small>
@@ -150,7 +150,7 @@
                         </ul>
                     </div>
                     <div class="col-wd-3 d-none d-wd-block">
-                        <a href="../shop/shop.html" class="d-block"><img class="img-fluid" src="{{ asset('assets/img/330X360/img1.jpg')}}" alt="Image Description"></a>
+                        <a href="{{ url('shop')}}" class="d-block"><img class="img-fluid" src="{{ asset('assets/img/330X360/img1.jpg')}}" alt="Image Description"></a>
                     </div>
                 </div>
             </div>
@@ -210,14 +210,14 @@
                                     </div>
                                     <div class="col pl-3">
                                         <div class="font-size-13 font-weight-light">Got questions? Call us 24/7!</div>
-                                        <a href="tel:+80080018588" class="font-size-20 text-gray-90">(800) 8001-8588, </a><a href="tel:+0600874548" class="font-size-20 text-gray-90">(0600) 874 548</a>
+                                        <a href="tel:+80080018588" class="font-size-20 text-gray-90"> +255 (678) 4549 84, </a><a href="tel:+0600874548" class="font-size-20 text-gray-90"> +255 (625) 7996 97</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="mb-4">
                                 <h6 class="mb-1 font-weight-bold">Contact info</h6>
                                 <address class="">
-                                    17 Princess Road, London, Greater London NW1 8JR, UK
+                                    Dar es Salaam, Kariakoo
                                 </address>
                             </div>
                             <div class="my-4 my-md-4">
@@ -229,17 +229,12 @@
                                     </li>
                                     <li class="list-inline-item mr-0">
                                         <a class="btn font-size-20 btn-icon btn-soft-dark btn-bg-transparent rounded-circle" href="javascript:;">
-                                            <span class="fab fa-google btn-icon__inner"></span>
+                                            <span class="fab fa-whatsapp btn-icon__inner"></span>
                                         </a>
                                     </li>
                                     <li class="list-inline-item mr-0">
                                         <a class="btn font-size-20 btn-icon btn-soft-dark btn-bg-transparent rounded-circle" href="javascript:;">
-                                            <span class="fab fa-twitter btn-icon__inner"></span>
-                                        </a>
-                                    </li>
-                                    <li class="list-inline-item mr-0">
-                                        <a class="btn font-size-20 btn-icon btn-soft-dark btn-bg-transparent rounded-circle" href="javascript:;">
-                                            <span class="fab fa-github btn-icon__inner"></span>
+                                            <span class="fab fa-instagram btn-icon__inner"></span>
                                         </a>
                                     </li>
                                 </ul>

@@ -12,8 +12,8 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-3 flex-nowrap flex-xl-wrap overflow-auto overflow-xl-visble">
                         <li class="breadcrumb-item flex-shrink-0 flex-xl-shrink-1"><a href="{{url('/')}}">Home</a></li>
-                        <li class="breadcrumb-item flex-shrink-0 flex-xl-shrink-1"><a href="../shop/shop.html">Accessories</a></li>
-                        <li class="breadcrumb-item flex-shrink-0 flex-xl-shrink-1"><a href="../shop/shop.html">Headphones</a></li>
+                        <li class="breadcrumb-item flex-shrink-0 flex-xl-shrink-1"><a href="{{url('shop')}}">Accessories</a></li>
+                        <li class="breadcrumb-item flex-shrink-0 flex-xl-shrink-1"><a href="{{url('shop')}}">Headphones</a></li>
                         <li class="breadcrumb-item flex-shrink-0 flex-xl-shrink-1 active" aria-current="page">Ultra Wireless S50 Headphones S50 with Bluetooth</li>
                     </ol>
                 </nav>
@@ -140,7 +140,7 @@
                                 <!-- End Quantity -->
                             </div>
                             <div class="ml-md-3">
-                                <a href="#" class="btn px-5 btn-primary-dark transition-3d-hover"><i class="ec ec-add-to-cart mr-2 font-size-20"></i> Add to Cart</a>
+                                <a href="{{url('shop/cart')}}" class="btn px-5 btn-primary-dark transition-3d-hover"><i class="ec ec-add-to-cart mr-2 font-size-20"></i> Add to Cart</a>
                             </div>
                         </div>
                     </div>
@@ -681,7 +681,7 @@
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
-                                    <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
+                                    <a href="{{url('shop/compare')}}" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
                                     <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>
@@ -709,7 +709,7 @@
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
-                                    <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
+                                    <a href="{{url('shop/compare')}}" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
                                     <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>
@@ -736,7 +736,7 @@
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
-                                    <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
+                                    <a href="{{url('shop/compare')}}" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
                                     <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>
@@ -763,7 +763,7 @@
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
-                                    <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
+                                    <a href="{{url('shop/compare')}}" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
                                     <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>
@@ -790,7 +790,7 @@
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
-                                    <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
+                                    <a href="{{url('shop/compare')}}" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
                                     <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>
@@ -818,7 +818,7 @@
                             </div>
                             <div class="product-item__footer">
                                 <div class="border-top pt-2 flex-center-between flex-wrap">
-                                    <a href="../shop/compare.html" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
+                                    <a href="{{url('shop/compare')}}" class="text-gray-6 font-size-13"><i class="ec ec-compare mr-1 font-size-15"></i> Compare</a>
                                     <a href="{{url('shop/wishlist')}}" class="text-gray-6 font-size-13"><i class="ec ec-favorites mr-1 font-size-15"></i> Wishlist</a>
                                 </div>
                             </div>

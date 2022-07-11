@@ -35,6 +35,12 @@ Route::get('about-us', function(){
 Route::get('contact-us', function(){
    return view('home.contact-us');
 });
+Route::get('shop/cart', function(){
+   return view('shop.cart');
+});
+Route::get('shop/checkout', function(){
+    return view('shop.checkout');
+});
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

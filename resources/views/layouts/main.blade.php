@@ -3,7 +3,7 @@
 
 <head>
     <!-- Title -->
-    <title>G-Computer $ Accessories</title>
+    <title>G-Computer & Accessories</title>
 
     <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8">
