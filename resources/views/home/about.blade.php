@@ -8,7 +8,7 @@
         <div class="container">
             <div class="flex-content-center max-width-620-lg flex-column mx-auto text-center">
                 <h1 class="h1 font-weight-bold">About Us</h1>
-                <p class="text-gray-39 font-size-18 text-lh-default">Passion may be a friendly or eager interest in or admiration for a proposal, cause, discovery, or activity or love to a feeling of unusual excitement.</p>
+                <p class="text-gray-39 font-size-18 text-lh-default">G-Computer Accessories is best supplier of selling all computer peripherals retailer and wholesaler in Dar es salaam also dealing of selling accessories for phone TV and Networking devices.</p>
             </div>
         </div>
     </div>
@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col-md-4 mb-4 mb-md-0">
                 <div class="card mb-3 border-0 text-center rounded-0">
-                    <img class="img-fluid mb-3" src="../../assets/img/500X300/img1.jpg" alt="Card image cap">
+                    <img class="img-fluid mb-3" src="{{ asset('assets/img/500X300/img1.jpg')}}" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="font-size-18 font-weight-semi-bold mb-3">What we really do?</h5>
                         <p class="text-gray-90 max-width-334 mx-auto">Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna,vitae ultrices lacus purus vitae metus.</p>
@@ -25,7 +25,7 @@
             </div>
             <div class="col-md-4 mb-4 mb-md-0">
                 <div class="card mb-3 border-0 text-center rounded-0">
-                    <img class="img-fluid mb-3" src="../../assets/img/500X300/img2.jpg" alt="Card image cap">
+                    <img class="img-fluid mb-3" src="{{ asset('assets/img/500X300/img2.jpg')}}" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="font-size-18 font-weight-semi-bold mb-3">Our Vision</h5>
                         <p class="text-gray-90 max-width-334 mx-auto">Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna,vitae ultrices lacus purus vitae metus.</p>
@@ -34,47 +34,81 @@
             </div>
             <div class="col-md-4">
                 <div class="card mb-3 border-0 text-center rounded-0">
-                    <img class="img-fluid mb-3" src="../../assets/img/500X300/img3.jpg" alt="Card image cap">
+                    <img class="img-fluid mb-3" src="{{ asset('assets/img/500X300/img3.jpg')}}" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="font-size-18 font-weight-semi-bold mb-3">History of Beginning</h5>
+                        <h5 class="font-size-18 font-weight-semi-bold mb-3">Our Mission</h5>
                         <p class="text-gray-90 max-width-334 mx-auto">Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna,vitae ultrices lacus purus vitae metus.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="bg-gray-1 py-12 mb-10 mb-lg-15">
+    <div class="bg-gray-1 py-3 mt-3 mb-3 mb-lg-15">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 mb-5 mb-xl-0 col-xl text-center">
-                    <img class="img-fluid mb-3 rounded-circle" src="../../assets/img/300X300/img16.jpg" alt="Card image cap">
-                    <h2 class="font-size-18 font-weight-semi-bold mb-0">Thomas Snow</h2>
+                <div class="col-md-6 mb-5 mb-xl-0 col-xl text-center">
+                    <img class="img-fluid mb-3 rounded-circle" src="{{ asset('assets/img/300X300/img16.jpg')}}" alt="Card image cap">
+                    <h2 class="font-size-18 font-weight-semi-bold mb-0">Eng. Elisante Kamera</h2>
                     <span class="text-gray-41">CEO/Founder</span>
+                    <ul class="list-inline mb-0 opacity-7">
+                        <li class="list-inline-item mr-0">
+                            <a class="btn font-size-10 btn-icon btn-soft-dark btn-bg-transparent" href="javascript:;">
+                                <span class="fab fa-facebook-f btn-icon__inner"></span>
+                            </a>
+                        </li>
+                        <li class="list-inline-item mr-0">
+                            <a class="btn font-size-10 btn-icon btn-soft-dark btn-bg-transparent" href="https://www.instagram.com/g_computeraccessories/" target="_blank">
+                                <span class="fab fa-instagram btn-icon__inner"></span>
+                            </a>
+                        </li>
+                        <li class="list-inline-item mr-0">
+                            <a class="btn font-size-10 btn-icon btn-soft-dark btn-bg-transparent" href="https://www.linkedin.com/in/elisante-kamera-2b01b6187/" target="_blank">
+                                <span class="fab fa-linkedin btn-icon__inner"></span>
+                            </a>
+                        </li>
+                    </ul>
                 </div>
-                <div class="col-md-4 mb-5 mb-xl-0 col-xl text-center">
-                    <img class="img-fluid mb-3 rounded-circle" src="../../assets/img/300X300/img17.jpg" alt="Card image cap">
-                    <h2 class="font-size-18 font-weight-semi-bold mb-0">Anna Baranov</h2>
-                    <span class="text-gray-41">Client Care</span>
+                <div class="col-md-6 mb-5 mb-xl-0 col-xl text-center">
+                    <img class="img-fluid mb-3 rounded-circle" src="{{ asset('assets/img/300X300/img17.jpg')}}" alt="Card image cap">
+                    <h2 class="font-size-18 font-weight-semi-bold mb-0">Getrude Mdede</h2>
+                    <span class="text-gray-41">CEO/Founder</span>
+                    <ul class="list-inline mb-0 opacity-7">
+                        <li class="list-inline-item mr-0">
+                            <a class="btn font-size-10 btn-icon btn-soft-dark btn-bg-transparent" href="javascript:;">
+                                <span class="fab fa-facebook-f btn-icon__inner"></span>
+                            </a>
+                        </li>
+                        <li class="list-inline-item mr-0">
+                            <a class="btn font-size-10 btn-icon btn-soft-dark btn-bg-transparent" href="https://www.instagram.com/g_computeraccessories/" target="_blank">
+                                <span class="fab fa-instagram btn-icon__inner"></span>
+                            </a>
+                        </li>
+                        <li class="list-inline-item mr-0">
+                            <a class="btn font-size-10 btn-icon btn-soft-dark btn-bg-transparent" href="https://www.linkedin.com/in/elisante-kamera-2b01b6187/" target="_blank">
+                                <span class="fab fa-linkedin btn-icon__inner"></span>
+                            </a>
+                        </li>
+                    </ul>
                 </div>
-                <div class="col-md-4 mb-5 mb-xl-0 col-xl text-center">
-                    <img class="img-fluid mb-3 rounded-circle" src="../../assets/img/300X300/img18.jpg" alt="Card image cap">
+                <!-- <div class="col-md-4 mb-5 mb-xl-0 col-xl text-center">
+                    <img class="img-fluid mb-3 rounded-circle" src="{{ asset('assets/img/300X300/img18.jpg')}}" alt="Card image cap">
                     <h2 class="font-size-18 font-weight-semi-bold mb-0">Andre Kowalsy</h2>
                     <span class="text-gray-41">Support Boss</span>
                 </div>
                 <div class="col-md-4 mb-5 mb-xl-0 col-xl text-center">
-                    <img class="img-fluid mb-3 rounded-circle" src="../../assets/img/300X300/img19.jpg" alt="Card image cap">
+                    <img class="img-fluid mb-3 rounded-circle" src="{{ asset('assets/img/300X300/img19.jpg')}}" alt="Card image cap">
                     <h2 class="font-size-18 font-weight-semi-bold mb-0">Pamela Doe</h2>
                     <span class="text-gray-41">Delivery Driver</span>
                 </div>
                 <div class="col-md-4 mb-5 mb-xl-0 col-xl text-center">
-                    <img class="img-fluid mb-3 rounded-circle" src="../../assets/img/300X300/img20.jpg" alt="Card image cap">
+                    <img class="img-fluid mb-3 rounded-circle" src="{{ asset('assets/img/300X300/img20.jpg')}}" alt="Card image cap">
                     <h2 class="font-size-18 font-weight-semi-bold mb-0">Susan McCain</h2>
                     <span class="text-gray-41">Packaging Girl</span>
                 </div>
                 <div class="col-md-4 mb-5 mb-xl-0 col-xl text-center">
-                    <img class="img-fluid mb-3 rounded-circle" src="../../assets/img/300X300/img21.png" alt="Card image cap">
+                    <img class="img-fluid mb-3 rounded-circle" src="{{ asset('assets/img/300X300/img21.png')}}" alt="Card image cap">
                     <h2 class="font-size-18 font-weight-semi-bold mb-0">See Details</h2>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

@@ -1,170 +1,170 @@
 <!-- ========== FOOTER ========== -->
 <footer>
-            <!-- Footer-top-widget -->
-            <div class="container d-none d-lg-block mb-3">
-                <div class="row">
-                    <div class="col-wd-3 col-lg-4">
-                        <div class="widget-column">
-                            <div class="border-bottom border-color-1 mb-5">
-                                <h3 class="section-title section-title__sm mb-0 pb-2 font-size-18">Featured Products</h3>
+    <!-- Footer-top-widget -->
+    <div class="container d-none d-lg-block mb-3">
+        <div class="row">
+            <div class="col-wd-3 col-lg-4">
+                <div class="widget-column">
+                    <div class="border-bottom border-color-1 mb-5">
+                        <h3 class="section-title section-title__sm mb-0 pb-2 font-size-18">Featured Products</h3>
+                    </div>
+                    <ul class="list-unstyled products-group">
+                        <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
+                            <div class="col-auto">
+                                <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img1.jpg')}}" alt="Image Description"></a>
                             </div>
-                            <ul class="list-unstyled products-group">
-                                <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
-                                    <div class="col-auto">
-                                        <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img1.jpg')}}" alt="Image Description"></a>
-                                    </div>
-                                    <div class="col pl-4 d-flex flex-column">
-                                        <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Purple Wireless Headphones Solo 2 HD</a></h5>
-                                        <div class="prodcut-price mt-auto">
-                                            <div class="font-size-15">Tsh1149.00</div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
-                                    <div class="col-auto">
-                                        <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img2.jpg')}}" alt="Image Description"></a>
-                                    </div>
-                                    <div class="col pl-4 d-flex flex-column">
-                                        <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Powerbank 1130 mAh Blue</a></h5>
-                                        <div class="prodcut-price mt-auto">
-                                            <div class="font-size-15">Tsh210.00</div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
-                                    <div class="col-auto">
-                                        <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img3.jpg')}}" alt="Image Description"></a>
-                                    </div>
-                                    <div class="col pl-4 d-flex flex-column">
-                                        <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Nerocool EN52377 Dead Silence Gaming Cube Case</a></h5>
-                                        <div class="prodcut-price mt-auto">
-                                            <div class="font-size-15">Tsh180.00</div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-wd-3 col-lg-4">
-                        <div class="border-bottom border-color-1 mb-5">
-                            <h3 class="section-title section-title__sm mb-0 pb-2 font-size-18">Onsale Products</h3>
-                        </div>
-                        <ul class="list-unstyled products-group">
-                            <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
-                                <div class="col-auto">
-                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img4.jpg')}}" alt="Image Description"></a>
+                            <div class="col pl-4 d-flex flex-column">
+                                <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Purple Wireless Headphones Solo 2 HD</a></h5>
+                                <div class="prodcut-price mt-auto">
+                                    <div class="font-size-15">Tsh1149.00</div>
                                 </div>
-                                <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Yellow Earphones Waterproof with Bluetooth</a></h5>
-                                    <div class="prodcut-price mt-auto flex-horizontal-center">
-                                        <ins class="font-size-15 text-decoration-none">Tsh110.00</ins>
-                                        <del class="font-size-12 text-gray-9 ml-2">Tsh250.00</del>
-                                    </div>
+                            </div>
+                        </li>
+                        <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
+                            <div class="col-auto">
+                                <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img2.jpg')}}" alt="Image Description"></a>
+                            </div>
+                            <div class="col pl-4 d-flex flex-column">
+                                <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Powerbank 1130 mAh Blue</a></h5>
+                                <div class="prodcut-price mt-auto">
+                                    <div class="font-size-15">Tsh210.00</div>
                                 </div>
-                            </li>
-                            <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
-                                <div class="col-auto">
-                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img5.jpg')}}" alt="Image Description"></a>
+                            </div>
+                        </li>
+                        <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
+                            <div class="col-auto">
+                                <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img3.jpg')}}" alt="Image Description"></a>
+                            </div>
+                            <div class="col pl-4 d-flex flex-column">
+                                <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Nerocool EN52377 Dead Silence Gaming Cube Case</a></h5>
+                                <div class="prodcut-price mt-auto">
+                                    <div class="font-size-15">Tsh180.00</div>
                                 </div>
-                                <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Camera C430W 4k Waterproof</a></h5>
-                                    <div class="prodcut-price mt-auto flex-horizontal-center">
-                                        <ins class="font-size-15 text-decoration-none">Tsh899.00</ins>
-                                        <del class="font-size-12 text-gray-9 ml-2">Tsh1200.00</del>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
-                                <div class="col-auto">
-                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img6.jpg')}}" alt="Image Description"></a>
-                                </div>
-                                <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Smartphone 6S 32GB LTE</a></h5>
-                                    <div class="prodcut-price mt-auto flex-horizontal-center">
-                                        <ins class="font-size-15 text-decoration-none">Tsh2100.00</ins>
-                                        <del class="font-size-12 text-gray-9 ml-2">Tsh3299.00</del>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-wd-3 col-lg-4">
-                        <div class="border-bottom border-color-1 mb-5">
-                            <h3 class="section-title section-title__sm mb-0 pb-2 font-size-18">Top Rated Products</h3>
-                        </div>
-                        <ul class="list-unstyled products-group">
-                            <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
-                                <div class="col-auto">
-                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img7.jpg')}}" alt="Image Description"></a>
-                                </div>
-                                <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Smartwatch 2.0 LTE Wifi Waterproof</a></h5>
-                                    <div class="text-warning mb-2">
-                                        <small class="fas fa-star"></small>
-                                        <small class="fas fa-star"></small>
-                                        <small class="fas fa-star"></small>
-                                        <small class="fas fa-star"></small>
-                                        <small class="fas fa-star"></small>
-                                    </div>
-                                    <div class="prodcut-price mt-auto">
-                                        <div class="font-size-15">Tsh725.00</div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
-                                <div class="col-auto">
-                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img8.jpg')}}" alt="Image Description"></a>
-                                </div>
-                                <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">22Mps Camera 6200U with 500GB SDcard</a></h5>
-                                    <div class="text-warning mb-2">
-                                        <small class="fas fa-star"></small>
-                                        <small class="fas fa-star"></small>
-                                        <small class="fas fa-star"></small>
-                                        <small class="fas fa-star"></small>
-                                        <small class="far fa-star text-muted"></small>
-                                    </div>
-                                    <div class="prodcut-price mt-auto">
-                                        <div class="font-size-15">Tsh2999.00</div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
-                                <div class="col-auto">
-                                    <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img9.jpg')}}" alt="Image Description"></a>
-                                </div>
-                                <div class="col pl-4 d-flex flex-column">
-                                    <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Full Color LaserJet Pro M452dn</a></h5>
-                                    <div class="text-warning mb-2">
-                                        <small class="fas fa-star"></small>
-                                        <small class="fas fa-star"></small>
-                                        <small class="fas fa-star"></small>
-                                        <small class="fas fa-star"></small>
-                                        <small class="far fa-star text-muted"></small>
-                                    </div>
-                                    <div class="prodcut-price mt-auto">
-                                        <div class="font-size-15">Tsh439.00</div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-wd-3 d-none d-wd-block">
-                        <a href="{{ url('shop')}}" class="d-block"><img class="img-fluid" src="{{ asset('assets/img/330X360/img1.jpg')}}" alt="Image Description"></a>
-                    </div>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
             </div>
-            <!-- End Footer-top-widget -->
-            <!-- Footer-bottom-widgets -->
-            <div class="pt-8 pb-4 bg-gray-13">
-                <div class="container mt-1">
-                    <div class="row">
-                        <div class="col-lg-5">
-                            <div class="mb-6">
-                                <a href="javascript:;" class="d-inline-block">
-                                    <svg version="1.1" x="0px" y="0px" width="156px" height="37px" viewBox="0 0 175.748 42.52" enable-background="new 0 0 175.748 42.52">
-                                        <ellipse fill-rule="evenodd" clip-rule="evenodd" fill="#FDD700" cx="170.05" cy="36.341" rx="5.32" ry="5.367"></ellipse>
-                                        <path fill-rule="evenodd" clip-rule="evenodd" fill="#333E48" d="M30.514,0.71c-0.034,0.003-0.066,0.008-0.056,0.056
+            <div class="col-wd-3 col-lg-4">
+                <div class="border-bottom border-color-1 mb-5">
+                    <h3 class="section-title section-title__sm mb-0 pb-2 font-size-18">Onsale Products</h3>
+                </div>
+                <ul class="list-unstyled products-group">
+                    <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
+                        <div class="col-auto">
+                            <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img4.jpg')}}" alt="Image Description"></a>
+                        </div>
+                        <div class="col pl-4 d-flex flex-column">
+                            <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Yellow Earphones Waterproof with Bluetooth</a></h5>
+                            <div class="prodcut-price mt-auto flex-horizontal-center">
+                                <ins class="font-size-15 text-decoration-none">Tsh110.00</ins>
+                                <del class="font-size-12 text-gray-9 ml-2">Tsh250.00</del>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
+                        <div class="col-auto">
+                            <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img5.jpg')}}" alt="Image Description"></a>
+                        </div>
+                        <div class="col pl-4 d-flex flex-column">
+                            <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Camera C430W 4k Waterproof</a></h5>
+                            <div class="prodcut-price mt-auto flex-horizontal-center">
+                                <ins class="font-size-15 text-decoration-none">Tsh899.00</ins>
+                                <del class="font-size-12 text-gray-9 ml-2">Tsh1200.00</del>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
+                        <div class="col-auto">
+                            <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img6.jpg')}}" alt="Image Description"></a>
+                        </div>
+                        <div class="col pl-4 d-flex flex-column">
+                            <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Smartphone 6S 32GB LTE</a></h5>
+                            <div class="prodcut-price mt-auto flex-horizontal-center">
+                                <ins class="font-size-15 text-decoration-none">Tsh2100.00</ins>
+                                <del class="font-size-12 text-gray-9 ml-2">Tsh3299.00</del>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-wd-3 col-lg-4">
+                <div class="border-bottom border-color-1 mb-5">
+                    <h3 class="section-title section-title__sm mb-0 pb-2 font-size-18">Top Rated Products</h3>
+                </div>
+                <ul class="list-unstyled products-group">
+                    <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
+                        <div class="col-auto">
+                            <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img7.jpg')}}" alt="Image Description"></a>
+                        </div>
+                        <div class="col pl-4 d-flex flex-column">
+                            <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Smartwatch 2.0 LTE Wifi Waterproof</a></h5>
+                            <div class="text-warning mb-2">
+                                <small class="fas fa-star"></small>
+                                <small class="fas fa-star"></small>
+                                <small class="fas fa-star"></small>
+                                <small class="fas fa-star"></small>
+                                <small class="fas fa-star"></small>
+                            </div>
+                            <div class="prodcut-price mt-auto">
+                                <div class="font-size-15">Tsh725.00</div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
+                        <div class="col-auto">
+                            <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img8.jpg')}}" alt="Image Description"></a>
+                        </div>
+                        <div class="col pl-4 d-flex flex-column">
+                            <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">22Mps Camera 6200U with 500GB SDcard</a></h5>
+                            <div class="text-warning mb-2">
+                                <small class="fas fa-star"></small>
+                                <small class="fas fa-star"></small>
+                                <small class="fas fa-star"></small>
+                                <small class="fas fa-star"></small>
+                                <small class="far fa-star text-muted"></small>
+                            </div>
+                            <div class="prodcut-price mt-auto">
+                                <div class="font-size-15">Tsh2999.00</div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="product-item product-item__list row no-gutters mb-6 remove-divider">
+                        <div class="col-auto">
+                            <a href="{{ url('shop/single/product/width')}}" class="d-block width-75 text-center"><img class="img-fluid" src="{{ asset('assets/img/75X75/img9.jpg')}}" alt="Image Description"></a>
+                        </div>
+                        <div class="col pl-4 d-flex flex-column">
+                            <h5 class="product-item__title mb-0"><a href="{{ url('shop/single/product/width')}}" class="text-blue font-weight-bold">Full Color LaserJet Pro M452dn</a></h5>
+                            <div class="text-warning mb-2">
+                                <small class="fas fa-star"></small>
+                                <small class="fas fa-star"></small>
+                                <small class="fas fa-star"></small>
+                                <small class="fas fa-star"></small>
+                                <small class="far fa-star text-muted"></small>
+                            </div>
+                            <div class="prodcut-price mt-auto">
+                                <div class="font-size-15">Tsh439.00</div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-wd-3 d-none d-wd-block">
+                <a href="{{ url('shop')}}" class="d-block"><img class="img-fluid" src="{{ asset('assets/img/330X360/img1.jpg')}}" alt="Image Description"></a>
+            </div>
+        </div>
+    </div>
+    <!-- End Footer-top-widget -->
+    <!-- Footer-bottom-widgets -->
+    <div class="pt-8 pb-4 bg-gray-13">
+        <div class="container mt-1">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="mb-6">
+                        <a href="javascript:;" class="d-inline-block">
+                            <svg version="1.1" x="0px" y="0px" width="156px" height="37px" viewBox="0 0 175.748 42.52" enable-background="new 0 0 175.748 42.52">
+                                <ellipse fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" cx="170.05" cy="36.341" rx="5.32" ry="5.367"></ellipse>
+                                <path fill-rule="evenodd" clip-rule="evenodd" fill="#333E48" d="M30.514,0.71c-0.034,0.003-0.066,0.008-0.056,0.056
                                             C30.263,0.995,29.876,1.181,29.79,1.5c-0.148,0.548,0,1.568,0,2.427v36.459c0.265,0.221,0.506,0.465,0.725,0.734h6.187
                                             c0.2-0.25,0.423-0.477,0.669-0.678V1.387C37.124,1.185,36.9,0.959,36.701,0.71H30.514z M117.517,12.731
                                             c-0.232-0.189-0.439-0.64-0.781-0.734c-0.754-0.209-2.039,0-3.121,0h-3.176V4.435c-0.232-0.189-0.439-0.639-0.781-0.733
@@ -199,11 +199,11 @@
                                             c0.404-1.031-0.365-1.502-0.891-2.088c-2.543-2.835-6.66-5.377-11.704-5.137c-6.02,0.288-10.218,3.697-12.484,7.846
                                             c-1.293,2.365-1.951,5.158-1.729,8.408c0.209,3.053,1.191,5.496,2.619,7.508c2.842,4.004,7.385,6.973,13.656,6.377
                                             c5.976-0.568,9.574-3.936,11.816-8.354c-0.141-0.271-0.221-0.604-0.336-0.902C92.929,31.364,90.843,30.485,88.812,29.55z">
-                                        </path>
-                                    </svg>
-                                </a>
-                            </div>
-                            <div class="mb-4">
+                                </path>
+                            </svg>
+                        </a>
+                    </div>
+                    <!-- <div class="mb-4">
                                 <div class="row no-gutters">
                                     <div class="col-auto">
                                         <i class="ec ec-support text-primary font-size-56"></i>
@@ -213,107 +213,117 @@
                                         <a href="tel:+80080018588" class="font-size-20 text-gray-90"> +255 (678) 4549 84, </a><a href="tel:+0600874548" class="font-size-20 text-gray-90"> +255 (625) 7996 97</a>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="mb-4">
-                                <h6 class="mb-1 font-weight-bold">Contact info</h6>
-                                <address class="">
-                                    Dar es Salaam, Kariakoo
-                                </address>
-                            </div>
-                            <div class="my-4 my-md-4">
-                                <ul class="list-inline mb-0 opacity-7">
-                                    <li class="list-inline-item mr-0">
-                                        <a class="btn font-size-20 btn-icon btn-soft-dark btn-bg-transparent rounded-circle" href="javascript:;">
-                                            <span class="fab fa-facebook-f btn-icon__inner"></span>
-                                        </a>
-                                    </li>
-                                    <li class="list-inline-item mr-0">
-                                        <a class="btn font-size-20 btn-icon btn-soft-dark btn-bg-transparent rounded-circle" href="javascript:;">
-                                            <span class="fab fa-whatsapp btn-icon__inner"></span>
-                                        </a>
-                                    </li>
-                                    <li class="list-inline-item mr-0">
-                                        <a class="btn font-size-20 btn-icon btn-soft-dark btn-bg-transparent rounded-circle" href="javascript:;">
-                                            <span class="fab fa-instagram btn-icon__inner"></span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
+                            </div> -->
+                    <div class="mb-4">
+                        <p class="text-gray-90 max-width-334">Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna,vitae ultrices lacus purus vitae metus.</p>
+                    </div>
+                    <div class="my-4 my-md-4">
+                        <ul class="list-inline mb-0 opacity-7">
+                            <li class="list-inline-item mr-0">
+                                <a class="btn font-size-20 btn-icon btn-soft-dark btn-bg-transparent rounded-circle" href="https://web.facebook.com/G_computer-accessories-102543751504719" target="_blank">
+                                    <span class="fab fa-facebook-f btn-icon__inner"></span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item mr-0">
+                                <a class="btn font-size-20 btn-icon btn-soft-dark btn-bg-transparent rounded-circle" href="https://www.instagram.com/g_computeraccessories/" target="_blank">
+                                    <span class="fab fa-instagram btn-icon__inner"></span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item mr-0">
+                                <a class="btn font-size-20 btn-icon btn-soft-dark btn-bg-transparent rounded-circle" href="https://www.linkedin.com/in/elisante-kamera-2b01b6187/" target="_blank">
+                                    <span class="fab fa-linkedin btn-icon__inner"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="row">
+                        <div class="col-12 col-md mb-4 mb-md-0">
+                            <h6 class="mb-3 font-weight-bold">Quick Links</h6>
+                            <!-- List Group -->
+                            <ul class="list-group list-group-flush list-group-borderless mb-0 list-group-transparent">
+                                <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Laptops & Computers</a></li>
+                                <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Smart Phones & Tablets</a></li>
+                                <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">TV & Audio</a></li>
+                                <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Printers & Ink</a></li>
+                                <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Software</a></li>
+                            </ul>
+                            <!-- End List Group -->
                         </div>
-                        <div class="col-lg-7">
-                            <div class="row">
-                                <div class="col-12 col-md mb-4 mb-md-0">
-                                    <h6 class="mb-3 font-weight-bold">Find it Fast</h6>
-                                    <!-- List Group -->
-                                    <ul class="list-group list-group-flush list-group-borderless mb-0 list-group-transparent">
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Laptops & Computers</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Cameras & Photography</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Smart Phones & Tablets</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Video Games & Consoles</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">TV & Audio</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Gadgets</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Car Electronic & GPS</a></li>
-                                    </ul>
-                                    <!-- End List Group -->
-                                </div>
 
-                                <div class="col-12 col-md mb-4 mb-md-0">
-                                    <!-- List Group -->
-                                    <ul class="list-group list-group-flush list-group-borderless mb-0 list-group-transparent mt-md-6">
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Printers & Ink</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Software</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Office Supplies</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Computer Components</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Accesories</a></li>
-                                    </ul>
-                                    <!-- End List Group -->
-                                </div>
+                        <div class="col-12 col-md mb-4 mb-md-0">
+                            <!-- List Group -->
+                            <ul class="list-group list-group-flush list-group-borderless mb-0 list-group-transparent mt-md-6">
+                                <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Office Supplies</a></li>
+                                <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Computer Components</a></li>
+                                <li><a class="list-group-item list-group-item-action" href="../shop/product-categories-5-column-sidebar.html">Accesories</a></li>
+                                <li><a class="list-group-item list-group-item-action" href="{{url('about-us')}}">About Us</a></li>
+                                <li><a class="list-group-item list-group-item-action" href="{{url('contact-us')}}">Contact Us</a></li>
+                            </ul>
+                            <!-- End List Group -->
+                        </div>
 
-                                <div class="col-12 col-md mb-4 mb-md-0">
-                                    <h6 class="mb-3 font-weight-bold">Customer Care</h6>
-                                    <!-- List Group -->
-                                    <ul class="list-group list-group-flush list-group-borderless mb-0 list-group-transparent">
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/my-account.html">My Account</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/track-your-order.html">Order Tracking</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../shop/wishlist.html">Wish List</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../home/terms-and-conditions.html">Customer Service</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../home/terms-and-conditions.html">Returns / Exchange</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../home/faq.html">FAQs</a></li>
-                                        <li><a class="list-group-item list-group-item-action" href="../home/terms-and-conditions.html">Product Support</a></li>
-                                    </ul>
-                                    <!-- End List Group -->
+                        <div class="col-12 col-md mb-4 mb-md-0">
+                            <h6 class="mb-3 font-weight-bold">Official Info</h6>
+                            <!-- List Group -->
+                                <div class="row">
+                                    <div class="col-2 text-center" style="color: #ED1C36;padding-left:23px;font-size:23px">
+                                        <i class="flaticon-location-pin"></i>
+                                    </div>
+                                    <div class="col-9 text-left">Dar es Salaam, Kariakoo Agrey & Likoma Street</div>
                                 </div>
-                            </div>
+                                <div class="row mt-2">
+                                    <div class="col-2 text-center" style="color: #003357;padding-left:23px;font-size:23px">
+                                        <i class="flaticon-email"></i>
+                                    </div>
+                                    <div class="col-9 text-left"> gcomputer@accessories.com</div>
+                                </div>
+                                <div class="row mt-2">
+                                    <div class="col-2 text-center" style="color: #003357;padding-left:23px;font-size:23px">
+                                        <i class="flaticon-phone-call"></i>
+                                    </div>
+                                    <div class="col-9 text-left"> +255 (656) 8044 62</div>
+                                </div>
+                                <div class="row mt-2">
+                                    <div class="col-2 text-center" style="color: #003357;padding-left:23px;font-size:23px">
+                                        <i class="fa fa-watch"></i>
+                                    </div>
+                                    <div class="col-9 text-left"> Mon - Sat: 8 am - 5 pm <br> Sanday: 9 am - 3 pm</div>
+                                </div>
+                            <!-- End List Group -->
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- End Footer-bottom-widgets -->
-            <!-- Footer-copy-right -->
-            <div class="bg-gray-14 py-2">
-                <div class="container">
-                    <div class="flex-center-between d-block d-md-flex">
-                        <div class="mb-3 mb-md-0">© <a href="javascript:;" class="font-weight-bold text-gray-90">Electro</a> - All rights Reserved</div>
-                        <div class="text-md-right">
-                            <span class="d-inline-block bg-white border rounded p-1">
-                                <img class="max-width-5" src="{{ asset('assets/img/100X60/img1.jpg')}}" alt="Image Description">
-                            </span>
-                            <span class="d-inline-block bg-white border rounded p-1">
-                                <img class="max-width-5" src="{{ asset('assets/img/100X60/img2.jpg')}}" alt="Image Description">
-                            </span>
-                            <span class="d-inline-block bg-white border rounded p-1">
-                                <img class="max-width-5" src="{{ asset('assets/img/100X60/img3.jpg')}}" alt="Image Description">
-                            </span>
-                            <span class="d-inline-block bg-white border rounded p-1">
-                                <img class="max-width-5" src="{{ asset('assets/img/100X60/img4.jpg')}}" alt="Image Description">
-                            </span>
-                            <span class="d-inline-block bg-white border rounded p-1">
-                                <img class="max-width-5" src="{{ asset('assets/img/100X60/img5.jpg')}}" alt="Image Description">
-                            </span>
-                        </div>
-                    </div>
+        </div>
+    </div>
+    <!-- End Footer-bottom-widgets -->
+    <!-- Footer-copy-right -->
+    <div class="bg-gray-14 py-2">
+        <div class="container">
+            <div class="flex-center-between d-block d-md-flex">
+                <div class="mb-3 mb-md-0">© <a href="javascript:;" class="font-weight-bold text-gray-90">Electro</a> - All rights Reserved</div>
+                <div class="text-md-right">
+                    <span class="d-inline-block bg-white border rounded p-1">
+                        <img class="max-width-5" src="{{ asset('assets/img/100X60/img1.jpg')}}" alt="Image Description">
+                    </span>
+                    <span class="d-inline-block bg-white border rounded p-1">
+                        <img class="max-width-5" src="{{ asset('assets/img/100X60/img2.jpg')}}" alt="Image Description">
+                    </span>
+                    <span class="d-inline-block bg-white border rounded p-1">
+                        <img class="max-width-5" src="{{ asset('assets/img/100X60/img3.jpg')}}" alt="Image Description">
+                    </span>
+                    <span class="d-inline-block bg-white border rounded p-1">
+                        <img class="max-width-5" src="{{ asset('assets/img/100X60/img4.jpg')}}" alt="Image Description">
+                    </span>
+                    <span class="d-inline-block bg-white border rounded p-1">
+                        <img class="max-width-5" src="{{ asset('assets/img/100X60/img5.jpg')}}" alt="Image Description">
+                    </span>
                 </div>
             </div>
-            <!-- End Footer-copy-right -->
-        </footer>
-        <!-- ========== END FOOTER ========== -->
+        </div>
+    </div>
+    <!-- End Footer-copy-right -->
+</footer>
+<!-- ========== END FOOTER ========== -->

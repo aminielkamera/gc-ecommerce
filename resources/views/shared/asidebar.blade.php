@@ -7,7 +7,7 @@
                     <div class="js-scrollbar u-header-sidebar__footer-offset pb-3">
                         <!-- Toggle Button -->
                         <div class="d-flex align-items-center pt-4 px-7">
-                            <button type="button" class="close ml-auto"
+                            <button type="button" class="menu-close ml-auto"
                                 aria-controls="sidebarContent"
                                 aria-haspopup="true"
                                 aria-expanded="false"

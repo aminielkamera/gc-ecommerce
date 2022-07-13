@@ -7,7 +7,7 @@
     <div class="mb-5">
         <div class="bg-img-hero" style="background-image: url(../../assets/img/1920X422/img1.jpg);">
             <div class="container min-height-420 overflow-hidden">
-                <div class="js-slick-carousel u-slick" data-pagi-classes="text-center position-absolute right-0 bottom-0 left-0 u-slick__pagination u-slick__pagination--long justify-content-start mb-3 mb-md-4 offset-xl-3 pl-2 pb-1">
+                <div class="js-slick-carousel u-slick" data-autoplay="true" data-speed="7000" data-pagi-classes="text-center position-absolute right-0 bottom-0 left-0 u-slick__pagination u-slick__pagination--long justify-content-start mb-3 mb-md-4 offset-xl-3 pl-2 pb-1">
                     <div class="js-slide bg-img-hero-center">
                         <div class="row min-height-420 py-7 py-md-0">
                             <div class="offset-xl-3 col-xl-4 col-6 mt-md-8">

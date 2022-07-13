@@ -17,6 +17,7 @@
 
     <!-- CSS Implementing Plugins -->
     <link rel="stylesheet" href="{{ asset('assets/vendor/font-awesome/css/fontawesome-all.min.css')}}">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/flaticons-basic/font/flaticon.css')}}">
     <link rel="stylesheet" href="{{ asset('assets/css/font-electro.css')}}">
 
     <link rel="stylesheet" href="{{ asset('assets/vendor/animate.css/animate.min.css')}}">
@@ -28,6 +29,7 @@
 
     <!-- CSS Electro Template -->
     <link rel="stylesheet" href="{{ asset('assets/css/theme.css')}}">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/floating-wpp.min.css')}}">
 </head>
 
 <body>
@@ -37,6 +39,8 @@
 
     @include('shared.footer')
     @include('shared.asidebar')
+
+    <div id="myDiv"></div>
 
     <!-- Go to Top -->
     <a class="js-go-to u-go-to" href="javascript:;" data-position='{"bottom": 15, "right": 15 }' data-type="fixed" data-offset-top="400" data-compensation="#header" data-show-effect="slideInUp" data-hide-effect="slideOutDown">
@@ -79,7 +83,17 @@
     <script src="{{ asset('assets/js/components/hs.go-to.js')}}"></script>
     <script src="{{ asset('assets/js/components/hs.selectpicker.js')}}"></script>
 
+    <script type="text/javascript" src="{{ asset('assets/vendor/floating-wpp.min.js')}}"></script>
+
     <!-- JS Plugins Init. -->
+    <script type="text/javascript">
+        $('#myDiv').floatingWhatsApp({
+            phone: '255656804462',
+            popupMessage: 'Hello, how can we help you today?',
+            message: "I'd like to order a computer accessories",
+            showPopup: true
+        });
+    </script>
     <script>
         $(window).on('load', function() {
             // initialization of HSMegaMenu component

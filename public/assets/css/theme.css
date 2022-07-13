@@ -8795,6 +8795,8 @@ a.badge-indigo:focus, a.badge-indigo.focus {
   color: #1e2022;
   text-shadow: 0 1px 0 #fff;
   opacity: .5;
+  position: relative;
+  top: -41px;
 }
 
 .close:hover {
@@ -8818,6 +8820,39 @@ button.close {
 a.close.disabled {
   pointer-events: none;
 }
+
+.menu-close {
+    float: right;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #1e2022;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+  }
+
+  .menu-close:hover {
+    color: #1e2022;
+    text-decoration: none;
+  }
+
+  .menu-close:not(:disabled):not(.disabled):hover, .menu-close:not(:disabled):not(.disabled):focus {
+    opacity: .75;
+  }
+
+  button.menu-close {
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+  }
+
+  a.menu-close.disabled {
+    pointer-events: none;
+  }
+
 
 .toast {
   max-width: 350px;
@@ -22543,7 +22578,7 @@ button:focus {
     padding-left: 0.99rem;
   }
   .navbar-expand-xl .u-header__navbar-nav .u-header__sub-menu {
-    border-top: 0.10938rem solid #fed700;
+    border-top: 0.10938rem solid #1c65c9;
     border-bottom-right-radius: 0.4375rem;
     border-bottom-left-radius: 0.4375rem;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.28);
@@ -24249,7 +24284,7 @@ button:focus {
 }
 
 .u-header-collapse__submenu .u-header-collapse__nav-list {
-  border-left: 2px solid #fed700;
+  border-left: 2px solid #1c65c9;
   padding-left: 1rem;
 }
 
@@ -24263,7 +24298,7 @@ button:focus {
 
 .u-header-collapse__submenu-list {
   list-style: none;
-  border-left: 2px solid #fed700;
+  border-left: 2px solid #1c65c9;
   padding-left: 0;
   margin-bottom: 0;
 }
@@ -26043,8 +26078,8 @@ button:focus {
 }
 
 .btn-soft-dark[href]:hover, .btn-soft-dark[href]:focus, .btn-soft-dark[href]:active, .btn-soft-dark[href].active, .btn-soft-dark[type]:hover, .btn-soft-dark[type]:focus, .btn-soft-dark[type]:active, .btn-soft-dark[type].active {
-  color: #fff;
-  background: #00233B;
+  color: #00233B;
+  border: 1px solid #00233B;
   box-shadow: 0 4px 11px rgba(51, 62, 72, 0.35);
 }
 
@@ -33152,8 +33187,8 @@ blockquote:not(.blockquote) p {
 .u-header + main .vertical-menu.v1 .u-header__nav-item.hs-mega-menu-opened .u-header__sub-menu,
 .u-header + main .vertical-menu.v1 .u-header__nav-item.hs-sub-menu-opened .u-header__sub-menu {
   top: -1px;
-  border-bottom: 2px solid #fed700;
-  border-right: 2px solid #fed700;
+  border-bottom: 1px solid #1c65c9;
+  border-right: 1px solid #1c65c9;
 }
 
 .u-header .vertical-menu.v2,
