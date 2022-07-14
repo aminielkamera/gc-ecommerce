@@ -289,7 +289,7 @@
                                     <div class="col-2 text-center" style="color: #003357;padding-left:23px;font-size:23px">
                                         <i class="fa fa-watch"></i>
                                     </div>
-                                    <div class="col-9 text-left"> Mon - Sat: 8 am - 5 pm <br> Sanday: 9 am - 3 pm</div>
+                                    <div class="col-9 text-left"> Mon - Sat: 8 am - 5 pm <br> Sunday: 9 am - 3 pm</div>
                                 </div>
                             <!-- End List Group -->
                         </div>
@@ -323,7 +323,6 @@
                 </div>
             </div>
         </div>
-    </div>
     <!-- End Footer-copy-right -->
 </footer>
 <!-- ========== END FOOTER ========== -->

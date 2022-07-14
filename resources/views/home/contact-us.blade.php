@@ -28,7 +28,9 @@
                     <div class="border-bottom border-color-1 mb-5">
                         <h3 class="section-title mb-0 pb-2 font-size-25">Leave us a Message</h3>
                     </div>
-                    <p class="max-width-830-xl text-gray-90">Maecenas dolor elit, semper a sem sed, pulvinar molestie lacus. Aliquam dignissim, elit non mattis ultrices, neque odio ultricies tellus, eu porttitor nisl ipsum eu massa.</p>
+                    <form class="js-validate" novalidate="novalidate">
+                    <form class="js-validate" novalidate="novalidate">
+                    <p class="max-width-830-xl text-gray-90">We’d love to hear from you! Send us a comment with the form bellow and we’ll be in touch with you soon as possible.
                     <form class="js-validate" novalidate="novalidate">
                         <div class="row">
                             <div class="col-md-6">
@@ -110,7 +112,7 @@
                         <div class="col-2 text-center" style="color: #003357;padding-left:23px;font-size:23px">
                             <i class="fa fa-watch"></i>
                         </div>
-                        <div class="col-9 text-left"> Mon - Sat: 8 am - 5 pm <br> Sanday: 9 am - 3 pm</div>
+                        <div class="col-9 text-left"> Mon - Sat: 8 am - 5 pm <br> Sunday: 9 am - 3 pm</div>
                     </div>
                 </div>
             </div>

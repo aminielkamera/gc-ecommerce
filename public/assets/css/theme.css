@@ -19634,7 +19634,13 @@ a.text-cyan:hover, a.text-cyan:focus {
 a.text-sale:hover, a.text-sale:focus {
   color: #ae1c1c !important;
 }
-
+.text-menu{
+    color: rgb(0, 35, 59, 0.5) !important;
+    font-weight: 600 !important;
+}
+a.text-menu:hover, a.text-sale:focus {
+    color: rgb(0, 35, 59, 0.8) !important;
+  }
 .text-black {
   color: #000000 !important;
 }

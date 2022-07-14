@@ -8,7 +8,7 @@
         <div class="container">
             <div class="flex-content-center max-width-620-lg flex-column mx-auto text-center">
                 <h1 class="h1 font-weight-bold">About Us</h1>
-                <p class="text-gray-39 font-size-18 text-lh-default">G-Computer Accessories is best supplier of selling all computer peripherals retailer and wholesaler in Dar es salaam also dealing of selling accessories for phone TV and Networking devices.</p>
+                <p class="text-gray-39 font-size-18 text-lh-default">G-Computer Accessories is the best supplier of all computer peripherals retailer and wholesaler in Dar es Salaam, as well as phone, TV, and networking device accessories.</p>
             </div>
         </div>
     </div>
@@ -28,7 +28,7 @@
                     <img class="img-fluid mb-3" src="{{ asset('assets/img/500X300/img2.jpg')}}" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="font-size-18 font-weight-semi-bold mb-3">Our Vision</h5>
-                        <p class="text-gray-90 max-width-334 mx-auto">Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna,vitae ultrices lacus purus vitae metus.</p>
+                        <p class="text-gray-90 max-width-334 mx-auto">We will provide customer-valued solutions with the best prices, products, and services to make our store the first choice for office and home improvement.</p>
                     </div>
                 </div>
             </div>
